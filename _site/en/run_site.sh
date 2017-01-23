@@ -15,5 +15,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-
-jekyll build
+jekyll serve --port 1729
