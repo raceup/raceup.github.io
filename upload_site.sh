@@ -18,7 +18,6 @@
 
 OUTPUT_FOLDER="/home/stefano/Projects/Raceup/webpage/raceup.github.io/"
 
-echo
 echo "------------------------"
 echo "Building"
 echo "------------------------"
@@ -26,7 +25,6 @@ jekyll build
 yes | cp -rf _site/* $OUTPUT_FOLDER
 cd $OUTPUT_FOLDER
 
-echo
 echo "------------------------"
 echo "Pushing online"
 echo "------------------------"
