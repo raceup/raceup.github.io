@@ -8,10 +8,19 @@ All notable changes to this project will be documented in this file.
 ### Add
 - team members images
 
+## 0.2.2 - 2017-01-25
+### Added
+- changing header color based on team (cd/ed)
+- color vars
+### Changed
+- car pages layout
+
 ## 0.2.1 - 2017-01-25
 ### Fixed
 - page colors
 - shrunk page size
+### Added
+- script to optimize images for web
 
 ## 0.2 - 2017-01-24
 ### Added
