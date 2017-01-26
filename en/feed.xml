@@ -1,13 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RaceUp Team</title>
-    <description>RaceUp is the FSAE team of the University of Padova. Since 2006 we build one of the fastest racing car in FSAE competitions.</description>
+    <title>Race UP Team</title>
+    <description>Race UP is the FSAE team of the University of Padova. Since 2006 we build one of the fastest racing car in FSAE competitions.</description>
     <link>raceup.github.io/en/</link>
     <atom:link href="raceup.github.io/en/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 26 Jan 2017 14:04:57 +0100</pubDate>
-    <lastBuildDate>Thu, 26 Jan 2017 14:04:57 +0100</lastBuildDate>
+    <pubDate>Thu, 26 Jan 2017 15:28:50 +0100</pubDate>
+    <lastBuildDate>Thu, 26 Jan 2017 15:28:50 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Race UP Team and Joanneum</title>
+        <description>&lt;p&gt;The Joint test session held in Pista Azzurra (Jesolo VE) from 28/11 to 30/11 between the Race UP Team and Joanneum Racing Graz finished 2 days ago.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-meeting&quot;&gt;The meeting&lt;/h2&gt;
+&lt;p&gt;The technical nature of the track coupled with low temperatures experienced during the test days put under great pressure both the handling and the reliability of the two cars involved: the MG 11.16 from Padua and the JR16 from Graz.&lt;/p&gt;
+
+&lt;h2 id=&quot;three-days-of-test-test-test&quot;&gt;Three days of test, test, test&lt;/h2&gt;
+&lt;p&gt;The 3 test days have been extremely important as they enabled the two teams to acquire valuable information to be used in the next season. Just as important was the possibility to consolidate the already excellent relationship between the two teams through a mutual exchange of competencies and know-how.&lt;/p&gt;
+
+&lt;h2 id=&quot;always-learning&quot;&gt;Always learning&lt;/h2&gt;
+&lt;p&gt;Race UP Team’s fundamental objectives are growth and innovation, being able to cooperate with a Top Team such as Joanneum Racing Graz has been a precious and constructive opportunity!&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/posts/2016/12/03/image.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Dec 2016 18:35:15 +0100</pubDate>
+        <link>raceup.github.io/en/2016/12/03/raceup-joanneum-together</link>
+        <guid isPermaLink="true">raceup.github.io/en/2016/12/03/raceup-joanneum-together</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Welcome</title>
+        <description>&lt;h2 id=&quot;welcome&quot;&gt;Welcome&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Lorem&lt;/strong&gt; &lt;strong&gt;Ipsum&lt;/strong&gt; dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-to-expect&quot;&gt;What to expect&lt;/h2&gt;
+&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-follow-us-in-other-social-networks&quot;&gt;How to follow us in other social networks&lt;/h2&gt;
+&lt;p&gt;At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.&lt;/p&gt;
+
+&lt;h2 id=&quot;finally-&quot;&gt;Finally ..&lt;/h2&gt;
+&lt;p&gt;Maecenas mi justo, placerat nec mattis eu, accumsan eu urna. In a lectus nunc. Integer nulla risus, convallis gravida magna bibendum, aliquam viverra lectus. Suspendisse rutrum ut lorem ut iaculis. Sed mattis feugiat commodo. Vestibulum dolor ante, fermentum id justo quis, cursus imperdiet felis. In vel cursus mi. Curabitur ac ligula tellus. Donec tincidunt tortor quis convallis tincidunt. Vivamus suscipit lectus sed urna vulputate, a ultrices ex elementum. Vivamus scelerisque erat quis pretium lobortis.&lt;/p&gt;
+
+&lt;h3 id=&quot;bye-from-race-up-team&quot;&gt;Bye from &lt;strong&gt;Race UP Team&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/posts/2016/04/17/image.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 17 Apr 2016 19:35:15 +0200</pubDate>
+        <link>raceup.github.io/en/2016/04/17/hello-world</link>
+        <guid isPermaLink="true">raceup.github.io/en/2016/04/17/hello-world</guid>
+        
+        
+      </item>
     
   </channel>
 </rss>
