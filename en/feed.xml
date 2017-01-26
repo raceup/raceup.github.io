@@ -3,10 +3,10 @@
   <channel>
     <title>RaceUp Team</title>
     <description>RaceUp is the FSAE team of the University of Padova. Since 2006 we build one of the fastest racing car in FSAE competitions.</description>
-    <link>http://localhost:1729/en/</link>
-    <atom:link href="http://localhost:1729/en/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 26 Jan 2017 11:58:27 +0100</pubDate>
-    <lastBuildDate>Thu, 26 Jan 2017 11:58:27 +0100</lastBuildDate>
+    <link>raceup.github.io/en/</link>
+    <atom:link href="raceup.github.io/en/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 26 Jan 2017 12:01:03 +0100</pubDate>
+    <lastBuildDate>Thu, 26 Jan 2017 12:01:03 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
   </channel>
