@@ -20,8 +20,8 @@ All notable changes to this project will be documented in this file.
 
 ### Add
 - team members images
-- car mg16 datasheet
 - origin-e description
+- CD sponsors
 
 ## 0.2.4 - 2017-01-26
 ### Removed
