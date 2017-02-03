@@ -23,6 +23,15 @@ All notable changes to this project will be documented in this file.
 - origin-e description
 - CD sponsors
 
+## 0.2.9 - 2017-02-03
+
+### Fixed
+- colors in timeline.css
+- url/baseurl in _config.yml
+
+### Added
+- bootstrap.min style to try to fix compatibility across devices
+
 ## 0.2.8 - 2017-02-02
 
 ### Changed
