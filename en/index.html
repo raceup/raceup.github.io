@@ -7,17 +7,32 @@
     
     
     <title>Homepage</title>
+
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content="Race UP is the FSAE team of the University of Padova. Since 2006 we build one of the fastest racing car in FSAE competitions.">
-    <meta name="keywords" content="raceup fsae" />
-    
-    <script src="/js/jquery.min.js"></script>
+    <meta name="author" content="" />
+    <meta name="keywords" content="raceup, unipd, fsae" />
+    <link rel="canonical" href="raceup.github.io/en/">
+
+    <!-- jQuery -->
+    <script src="/js/jquery.js"></script>
     <script src="/js/jquery.dropotron.min.js"></script>
     <script src="/js/jquery.scrolly.min.js"></script>
     <script src="/js/jquery.scrollgress.min.js"></script>
+    
+    <!-- Bootstrap Core JavaScript -->
+    <script src="/js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="/js/jquery.easing.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
     <script src="/js/skel.min.js"></script>
     <script src="/js/skel-layers.min.js"></script>
     <script src="/js/init.js"></script>
+    
     <noscript>
         <link rel="stylesheet" href="/en/css/skel.css" />
         <link rel="stylesheet" href="/en/css/style.css" />
@@ -25,13 +40,22 @@
         <link rel="stylesheet" href="/en/css/style-noscript.css" />
     </noscript>
 
-    <!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
-    <!--[if lte IE 8]><link rel="stylesheet" href="/en/css/ie/v8.css" /><![endif]-->
-    <!--[if lte IE 9]><link rel="stylesheet" href="/en/css/ie/v9.css" /><![endif]-->
-    <!--[if lte IE 8]><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" /><![endif]-->
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/timeline.css" />
+
+    <!--[if lte IE 8]>
+        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" />
+        <link rel="stylesheet" href="/en/css/ie/v8.css" />
+        <script src="css/ie/html5shiv.js"></script>
+    <![endif]-->
     
-    <meta name="viewport" content="width=device-width">
-    <link rel="canonical" href="raceup.github.io/en/">
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
 </head>
 
 
@@ -41,18 +65,16 @@
 <header id="header">
 
 
-<h1 id="logo"><a href="/en">Race UP</a></h1>
-
 <nav id="nav">
     <ul>
-        <li class="submenu icon fa-language">
+        <li class="icon fa-home"><a href="/en">Home</a></li>
+        <li class="submenu">
+            <a>Team</a>
             <ul>
-                <li><a href="/">it</a></li>
-                <li><a href="/en">en</a></li>
+                <li><a href="/en/team.html">Race UP</a></li>
+                <li><a href="/en/team-stuff.html">Stuff we do</a></li>
             </ul>
         </li>
-        <li><a href="/en/blog.html">Blog</a></li>
-        <li><a href="/en/team.html">Team</a></li>
         <li class="submenu">
             <a>Cars</a>
             <ul>
@@ -63,14 +85,31 @@
         <li class="submenu">
             <a>Sponsors</a>
             <ul>
+                <li><a href="/en/sponsors/why.html">Why support us</a></li>
                 <li><a href="/en/sponsors/cd.html">Combustion Division</a></li>
                 <li><a href="/en/sponsors/ed.html">Electric Division</a></li>
             </ul>
         </li>
-        <li><a class="link-en" href="/en/about.html">About</a></li>
+        <li><a href="/en/join.html">Join the team</a></li>
+        <li><a href="/en/media.html">Media</a></li>
+        <li><a href="/en/blog.html">News</a></li>
+        <li class="icon fa-language"><a href="/">ITA</a></li>
     </ul>
 </nav>
+
 </header>
+
+    <div id="logo-header">
+    	<nav>
+		    <ul>
+		    	<li class="image little"><img src="/images/logos/unipd.png"></li>
+	        <li class="image little"><img src="/images/logos/oz.png"></li>
+          <li class="image little"><img src="/images/logos/buson.png"></li>
+          <li class="image little"><img src="/images/logos/LAMIERTEK-1k.png"></li>
+          <li class="image little"><img src="/images/logos/melasta-1k.png"></li>
+		    </ul>
+		</nav>
+    </div>
 
     <section id="banner">
 	<div class="inner">
@@ -82,115 +121,93 @@
 
     <div class="page-content">
         <article id="main">
+<!-- Intro -->
+	<section class="container">
+		<p>
+			<strong>Race UP</strong> is one of the most important Formula Student academic team: since 2006, more than a hundred male and female students of the Patavina University, from Mechanical Engineering, Aerospace, Electronics, Mechatronics, Management, Economics and Communication Sciences, merge expertise and passion in training a successful experience.
+		</p>
+	</section>
 
-	<header class="container">
-		<p>Race UP is one of the most important Formula Student academic team: since 2006, more than a hundred male and female students of the Patavina University, from Mechanical Engineering, Aerospace, Electronics, Mechatronics, Management, Economics and Communication Sciences, merge expertise and passion in training a successful experience.
-		<br />
-	</header>
+	<!-- FSAE -->
+	<section class="wrapper style3 container">
+		<!-- logos -->
+		<div class="row">
+			<div class="6u" align="center">
+				<section>
+					<a class="image featured"><img src="/images/fsae_logo.jpg" style="width: 30%; height: 30%"/></a>
 
-	<!-- One -->
-		<section class="wrapper style2 container special-alt">
-			<div class="row half">
-				<div class="8u">
-				
-					<header>
-						<h2>University of Padova</h2>
-					</header>
-					
-					<p>
-						"Universa universis patavina libertas" is the motto that has always characterized the University of Padova, recognized for cultural openness and freedom of expression that prompted centuries ago a group of students and teachers to leave the University of Bologna for Padua and shared by the Paduan students today; these factors also converge in Race UP, which helps make the University of Padua a benchmark for excellence in training and in research studies internationally.</p>
-				
-				</div>
-				<div class="4u skel-cell-important">
-				
-					<ul class="featured-icons">
-						<li><span class="icon fa-clock-o"><span class="label">Feature 1</span></span></li>
-						<li><span class="icon fa-volume-up"><span class="label">Feature 2</span></span></li>
-						<li><span class="icon fa-laptop"><span class="label">Feature 3</span></span></li>
-						<li><span class="icon fa-inbox"><span class="label">Feature 4</span></span></li>
-						<li><span class="icon fa-lock"><span class="label">Feature 5</span></span></li>
-						<li><span class="icon fa-cog"><span class="label">Feature 6</span></span></li>
-					</ul>
-				
-				</div>				
+					<a class="image featured"><img src="/images/sae.jpg" style="width: 30%; height: 30%"/></a>
+				</section>
 			</div>
-		</section>
-		
-	<!-- Two -->
-		<section class="wrapper style1 container special">
-			<div class="row">
-				<div class="4u">
-				
-					<section>
-						<span class="icon featured fa fa-line-chart"></span>
-						<header>
-							<h3>Educational experience</h3>
-						</header>
-						<p>Field test, learning out of the classroom, to have that extra edge: Up Race is an incubator of talent, as well as a project to find their passion.</p>
-					</section>
-				
-				</div>
-				<div class="4u">
-				
-					<section>
-						<span class="icon featured fa fa-users"></span>
-						<header>
-							<h3>Team work</h3>
-						</header>
-						<p>Working in a team is one of the most rewarding things: share important results and problematic moments, working team, but respecting the hierarchies.</p>
-					</section>
-				
-				</div>
-				<div class="4u">
-				
-					<section>
-						<span class="icon featured fa fa-cogs"></span>
-						<header>
-							<h3>Finalizing the Result</h3>
-						</header>
-						<p>Lubricate the gears to a common result, made of bolts, and performance charts, but also of the management and business solutions.</p>
-					</section>
-				
-				</div>
-			</div>
-		</section>
-		
-	<!-- Three -->
-		<section class="wrapper style3 container">
-			<div class="row">
-				<div class="6u">
-					<section>
-						<a class="image featured"><img src="/images/fsae_logo.jpg" /></a>
-						
-						<p>
-							Formula SAE is a competition between university students organized by the Society of Automotive Engineers (SAE) which provides for the design and production of a racing car, evaluated in a series of tests based on its quality of design and efficiency of ingegneristica.Istituita in 1981, the competition has now spread to all over the world, with ten annual events organized directly by the SAE in cooperation with the national associations of engineers and technicians car.
-						</p>
 
-						<a class="image featured"><img src="/images/fsg_logo.jpg" /></a>
-					</section>
-				</div>
-				
-				<div class="6u">
-					<section>
-						<h2 align="center">Premium partners</h2>
-						<br />
+			<div class="6u" align="center">
+				<section>
+					<div class="row">
+						<div class="6u" align="center">
+							<section>
+								<a class="image featured"><img src="/images/fsg_logo.jpg"/></a>
 
-						<div>
-							<ul>
-								<li><a class="image featured"><img src="/images/sponsors/oz.png" /></a></li>
-							</ul>
-							<ul>
-								<li><a class="image featured"><img src="/images/sponsors/cd/1/buson.png" /></a></li>
-							</ul>
+								<a class="image featured"><img src="/images/fsa_logo.jpg"/></a>
+							</section>
 						</div>
-					</section>
-				</div>
+
+						<div class="6u" align="center">
+							<section>
+								<a class="image featured"><img src="/images/fsitaly_logo.jpeg" style="width: 90%; height: 90%"/></a>
+								<br>	
+								<a class="image featured"><img src="/images/fsczech_black.png"/></a>
+							</section>
+						</div>
+					</div>
+				</section>
 			</div>
-		</section>
+		</div>
+
+		<!-- description -->
+		<div class="row">
+			<div>
+				<section>
+					<p>
+						<strong>Formula SAE</strong> is a competition between university students organized by the Society of Automotive Engineers (SAE) which provides for the design and production of a racing car, evaluated in a series of tests based on its quality of design and efficiency of ingegneristica.Istituita in 1981, the competition has now spread to all over the world, with ten annual events organized directly by the SAE in cooperation with the national associations of engineers and technicians car.
+					</p>
+				</section>
+			</div>
+		</div>
+	</section>
+		
+	<!-- Unipd -->
+	<section class="wrapper style2 container special-alt">
+		<div class="row half">
+			<div class="8u">
+			
+				<header>
+					<h2><strong>Università di Padova</strong></h2>
+				</header>
+				
+				<p>
+					"Universa universis patavina libertas" is the motto that has always characterized the University of Padova, recognized for cultural openness and freedom of expression that prompted centuries ago a group of students and teachers to leave the University of Bologna for Padua and shared by the Paduan students today; these factors also converge in Race UP, which helps make the University of Padua a benchmark for excellence in training and in research studies internationally.
+				</p>
+			
+			</div>
+			<div class="4u skel-cell-important">
+			
+				<ul class="featured-icons">
+					<li><span class="icon fa-clock-o"><span class="label">Feature 1</span></span></li>
+					<li><span class="icon fa-volume-up"><span class="label">Feature 2</span></span></li>
+					<li><span class="icon fa-laptop"><span class="label">Feature 3</span></span></li>
+					<li><span class="icon fa-inbox"><span class="label">Feature 4</span></span></li>
+					<li><span class="icon fa-lock"><span class="label">Feature 5</span></span></li>
+					<li><span class="icon fa-cog"><span class="label">Feature 6</span></span></li>
+				</ul>
+			
+			</div>				
+		</div>
+	</section>
+
 </article>
 
 <!-- CTA -->
-<section id="cta">	
+<section id="cta">
 	<footer>
 		<ul align="center" class="buttons">
 			<li><a href="/en/sponsors/cd.html" class="button special">Get to know our partners</a></li>
@@ -199,13 +216,12 @@
 	</footer>
 </section>
 
-
     </div>
 
     <!-- Footer -->
 <footer id="footer">
     <ul class="icons">
-        <li><a href="https://twitter.com/Race UPTeam" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
+        <li><a href="https://twitter.com/RaceUpTeam" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
         <li><a href="https://it.linkedin.com/grps/Race-Up-Team-3555234/about?" class="icon circle fa-linkedin"><span class="label">Linkedin</span></a></li>
         <li><a href="https://www.facebook.com/Race-UP-Team-Combustion-440618820789/" class="icon circle fa-facebook"><span class="label">Facebook CD</span></a></li>
         <li><a href="https://www.facebook.com/Race-UP-Team-Electric-802147286569414/" class="icon circle fa-facebook"><span class="label">Facebook CD</span></a></li>

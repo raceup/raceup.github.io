@@ -5,12 +5,12 @@
     <description>Race UP is the FSAE team of the University of Padova. Since 2006 we build one of the fastest racing car in FSAE competitions.</description>
     <link>raceup.github.io/en/</link>
     <atom:link href="raceup.github.io/en/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 26 Jan 2017 19:57:09 +0100</pubDate>
-    <lastBuildDate>Thu, 26 Jan 2017 19:57:09 +0100</lastBuildDate>
-    <generator>Jekyll v3.3.1</generator>
+    <pubDate>Fri, 03 Feb 2017 14:16:11 +0100</pubDate>
+    <lastBuildDate>Fri, 03 Feb 2017 14:16:11 +0100</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
     
       <item>
-        <title>Race UP Team and Joanneum</title>
+        <title>posts.joanneum_raceup</title>
         <description>&lt;p&gt;The Joint test session held in Pista Azzurra (Jesolo VE) from 28/11 to 30/11 between the Race UP Team and Joanneum Racing Graz finished 2 days ago.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-meeting&quot;&gt;The meeting&lt;/h2&gt;
@@ -32,7 +32,7 @@
       </item>
     
       <item>
-        <title>Seasonal summary</title>
+        <title>posts.seasonal_summary</title>
         <description>&lt;p&gt;The Race UP Team Combustion Division, the project Formula SAE team at the University of Padua, is composed of thirty-five students from different departments of the university.&lt;/p&gt;
 
 &lt;h2 id=&quot;determination-and-innovation&quot;&gt;Determination and innovation&lt;/h2&gt;
@@ -54,7 +54,7 @@
       </item>
     
       <item>
-        <title>Welcome</title>
+        <title>posts.welcome</title>
         <description>&lt;h2 id=&quot;welcome&quot;&gt;Welcome&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Lorem&lt;/strong&gt; &lt;strong&gt;Ipsum&lt;/strong&gt; dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 
