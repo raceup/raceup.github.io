@@ -23,6 +23,34 @@ All notable changes to this project will be documented in this file.
 - origin-e description
 - CD sponsors
 
+## TODO
+- banner logo little (...)
+- jusitfy all text (...)
+- still banner (...)
+- competition with pie chart (js hide/unhide) (...)
+- team description + big
+- mg-16 datasheet like other (ask CD)
+- no logo car fa-icon (ask tav)
+- footer fb > ed/cd (...)
+- ed data sheet (ask ED)
+
+## 0.3.2 - 2017-02-06
+
+### Added
+- why sponsor us
+
+
+## 0.3.1 - 2017-02-05
+
+### Fixed
+- bootstrap.min.css style
+- justified text in index.html
+
+## 0.3 - 2017-02-04
+
+### Fixed
+- header.special line vertical centering
+
 ## 0.2.9 - 2017-02-03
 
 ### Fixed
@@ -31,6 +59,14 @@ All notable changes to this project will be documented in this file.
 
 ### Added
 - bootstrap.min style to try to fix compatibility across devices
+- team description, timeline, achievements layout
+- "why support us" sponsors section
+- "why join us" section
+
+### Changed
+- team members page <-> team page
+- banner
+- car presentation images
 
 ## 0.2.8 - 2017-02-02
 
