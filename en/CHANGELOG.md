@@ -8,11 +8,9 @@ All notable changes to this project will be documented in this file.
 
 #### Internet Explorer/Microsoft
 - header collision
-- no red area in home
 
 #### Mobiles
 - header collision
-- no red area in home
 - missing flavicon
 - transparent menu
 - missing send button in contact form
@@ -21,7 +19,7 @@ All notable changes to this project will be documented in this file.
 ### Add
 - team members images
 - origin-e description
-- CD sponsors
+- timeline events
 
 ## TODO
 - banner logo little (...)
@@ -29,11 +27,15 @@ All notable changes to this project will be documented in this file.
 - still banner (...)
 - competition with pie chart (js hide/unhide) (...)
 - footer fb > ed/cd (...)
-
-- no logo car fa-icon (ask tav)
-
-- mg-16 datasheet like other (ask CD)
 - ed data sheet (ask ED)
+
+## 0.3.3 - 2017-02-11
+
+### Changed
+- layout in team-members.html
+
+### Added
+- description of team units in team-members.html
 
 ## 0.3.2 - 2017-02-06
 
