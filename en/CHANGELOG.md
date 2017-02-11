@@ -28,17 +28,22 @@ All notable changes to this project will be documented in this file.
 - jusitfy all text (...)
 - still banner (...)
 - competition with pie chart (js hide/unhide) (...)
-- team description + big
-- mg-16 datasheet like other (ask CD)
-- no logo car fa-icon (ask tav)
 - footer fb > ed/cd (...)
+
+- no logo car fa-icon (ask tav)
+
+- mg-16 datasheet like other (ask CD)
 - ed data sheet (ask ED)
 
 ## 0.3.2 - 2017-02-06
 
 ### Added
 - why sponsor us
+- cd sponsors
+- "join us" section content
 
+### Fixed
+- cd/ed sponsors image size
 
 ## 0.3.1 - 2017-02-05
 
