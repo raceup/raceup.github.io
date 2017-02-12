@@ -3,9 +3,6 @@ All notable changes to this project will be documented in this file.
 
 ## TODOs
 
-### Fix
-- team page: when minimized some names cover others nearby
-
 #### Internet Explorer/Microsoft
 - header collision
 
@@ -16,23 +13,26 @@ All notable changes to this project will be documented in this file.
 - missing send button in contact form
 - add send message function
 
-### Add
-- team members images
-- origin-e description
-- timeline events
-
 ## TODO
-- banner logo little (...)
-- jusitfy all text (...)
-- still banner (...)
+- english version
 - competition with pie chart (js hide/unhide) (...)
-- footer fb > ed/cd (...)
-- ed data sheet (ask ED)
+- team members images
+- timeline images
+- change name to mg 11.X
+- remind eleonora of gform to join us
+
+## 0.3.4 - 2017-02-11
+
+### Added
+- timeline events
+- ed data sheet
 
 ## 0.3.4 - 2017-02-11
 
 ### Fixed
 - post.title rendering in blog
+- mobile logos header rendering
+- team-members.html layout
 
 ## 0.3.3 - 2017-02-11
 
