@@ -3,6 +3,9 @@ All notable changes to this project will be documented in this file.
 
 ## TODOs
 
+### Fix
+- team page: when minimized some names cover others nearby
+
 #### Internet Explorer/Microsoft
 - header collision
 
@@ -15,17 +18,42 @@ All notable changes to this project will be documented in this file.
 
 ## TODO
 - english version
-- competition with pie chart (js hide/unhide) (...)
 - team members images
 - timeline images
-- change name to mg 11.X
 - remind eleonora of gform to join us
 
-## 0.3.4 - 2017-02-11
+## 0.3.6 - 2017-02-12
+
+### Added
+- raw pie chart in team page
+- pie chart good version
+
+### Changed
+- layout in team-members.html
+
+### Fixed
+- pie chart font, position and description
+
+## 0.3.5 - 2017-02-12
+
+### Added
+- ed car datasheet
+- ed car 2017 data
+- cd car 2017 data
+
+### Fixed
+- cd cars name
+
+## 0.3.5 - 2017-02-12
 
 ### Added
 - timeline events
-- ed data sheet
+
+### Fixed
+- timeline events centering
+
+### Fixed
+- extra line margin of timeline on last child
 
 ## 0.3.4 - 2017-02-11
 
@@ -33,6 +61,9 @@ All notable changes to this project will be documented in this file.
 - post.title rendering in blog
 - mobile logos header rendering
 - team-members.html layout
+
+### Removed
+- Tisato
 
 ## 0.3.3 - 2017-02-11
 

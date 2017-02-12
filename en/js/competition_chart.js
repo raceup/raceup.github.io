@@ -1,40 +1,35 @@
 $(function() {
 	var data = [
 		{
-			name: "Element 0", value: 10, color: "#4572a7"
+			name: "Design", value: 15, description: "Valutazione dell’efficienza, dell’efficacia e del grado di innovazione del progetto ", color: "#DF7134"
 		},
 		{
-			name: "Element 1", value: 20, color: "#aa4643"
+			name: "Acceleration", value: 10, description: "Accelerazione su rettilineo di 75 m", color: "#EFB800"
 		},
 		{
-			name: "Element 2", value: 30, color: "#89a54e"
+			name: "Endurance", value: 27.5, description: "Prova di durata in cui la monoposto dovrà percorrere 22 km in maniera efficiente, affidabile e nel minor tempo possibile", color: "#68AB40"
 		},
 		{
-			name: "Element 3", value: 20, color: "#80699b"
+			name: "Skid pad", value: 7.5, description: "Due piloti e due prove di giri a otto ciascuno", color: "#5E90CA"
 		},
 		{
-			name: "Element 4", value: 20, color: "#3d96ae"
+			name: "Cost", value: 10, description: "Valutazione del trade off tra costi e performance", color: "#4B65BB"
+		},
+		{
+			name: "Autocross", value: 22.5, description: "Un giro di pista alla massima velocità, per testare appieno le prestazioni della macchina", color: "#2E3E73"
+		},
+		{
+			name: "Business plan presentation", value: 7.5, description: "Business case per la promozione della propria azienda a potenziali investitori", color: "#9C9C9C"
 		}
 	];
 
 	var chart = new iChart.Pie3D({
 		render : "canvasDiv",
 		data: data,
-		title : {
-			text : "Title",
-			height:40,
-			fontsize : 30,
-			color : "#282828"
-		},
-		footnote : {
-			text : "footnote",
-			color : "#486c8f",
-			fontsize : 12,
-			padding : "0 38"
-		},
 		sub_option : {
 			mini_label_threshold_angle : 40,
 			mini_label:{
+				font: "Lato",
 				fontsize:20,
 				fontweight:600,
 				color : "#ffffff"
@@ -42,11 +37,11 @@ $(function() {
 			label : {
 				background_color:null,
 				sign:false,
-				padding:"0 4",
 				border:{
 					enable:false,
 					color:"#666666"
 				},
+				font: "Lato",
 				fontsize:11,
 				fontweight:600,
 				color : "#4572a7"
@@ -56,16 +51,19 @@ $(function() {
 				color : "#ffffff"
 			},
 			listeners:{
-				parseText:function(d, t){
+				parseText: function(d, t) {
 					return d.get("value")+"%";
+				},
+				click: function(d, t) {
+					var text = "<strong>" + d.get("name") + "</strong>: " + d.get("description");
+					document.getElementById("chartDescription").innerHTML = text;
 				}
 			} 
 		},
 		legend:{
-			enable:true,
+			font: "Lato",
+			enable: true,
 			padding:0,
-			offsetx:120,
-			offsety:50,
 			color:"#3e576f",
 			fontsize:20,
 			sign_size:20,
@@ -74,30 +72,26 @@ $(function() {
 			border:false,
 			align:"left",
 			background_color : null
-		}, 
+		},
 		shadow : true,
 		shadow_blur : 6,
 		shadow_color : "#aaaaaa",
 		shadow_offsetx : 0,
 		shadow_offsety : 0,
-		background_color:"#f1f1f1",
+		background_color: null,
 		align:"right",
-		offsetx:-100,
+		offsetx:-50,
 		offset_angle:-90,
-		width : 800,
-		height : 400,
-		radius:150
+		width: 800,
+		height: 400,
+		radius: 150
 	});
-	
+
 	chart.plugin(new iChart.Custom({
 		drawFn:function(){
-			
-			chart.target.textAlign("start")
-				.textBaseline("top")
-				.textFont("600 20px Verdana")
-				.fillText("Market Fragmentation:\nTop Mobile\nOperating Systems",120,80,false,"#be5985",false,24)
-				.textFont("600 12px Verdana")
-				.fillText("Source:ComScore,2012",120,160,false,"#999999");
+			chart.target.textAlign('start')
+			.textBaseline('top')
+			.textFont('600 20px Arial')
 		}
 	}));
 	
