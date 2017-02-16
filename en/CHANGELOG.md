@@ -22,6 +22,15 @@ All notable changes to this project will be documented in this file.
 - timeline images
 - remind eleonora of gform to join us
 
+## 0.3.8 - 2017-02-13
+
+### Added
+- welcome post
+
+### Fixed
+- social links
+- row bug in Mirko
+
 ## 0.3.7 - 2017-02-12
 
 ### Fixed
