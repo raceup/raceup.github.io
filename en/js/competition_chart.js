@@ -68,7 +68,6 @@ $(function() {
 			fontsize:20,
 			sign_size:20,
 			line_height:28,
-			offsetx:20,
 			sign_space:10,
 			border:false,
 			align:"center",
@@ -79,13 +78,12 @@ $(function() {
 		shadow_color : "#aaaaaa",
 		shadow_offsetx : 0,
 		shadow_offsety : 0,
-		offsetx:0,
 		background_color: null,
 		align:"center",
 		offset_angle:-90,
-		width: 400,
+		width: 350,
 		height: 800,
-		radius: 130
+		radius: 100
 	});
 
 	chart.plugin(new iChart.Custom({
