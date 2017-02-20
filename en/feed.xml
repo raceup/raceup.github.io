@@ -3,10 +3,10 @@
   <channel>
     <title>Race UP Team</title>
     <description>Race UP is the FSAE team of the University of Padova. Since 2006 we build one of the fastest racing car in FSAE competitions.</description>
-    <link>raceup.it/tmp/en/</link>
-    <atom:link href="raceup.it/tmp/en/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 20 Feb 2017 11:03:50 +0100</pubDate>
-    <lastBuildDate>Mon, 20 Feb 2017 11:03:50 +0100</lastBuildDate>
+    <link>raceup.it/en/</link>
+    <atom:link href="raceup.it/en/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 20 Feb 2017 12:44:58 +0100</pubDate>
+    <lastBuildDate>Mon, 20 Feb 2017 12:44:58 +0100</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -22,11 +22,11 @@
 &lt;h2 id=&quot;always-learning&quot;&gt;Always learning&lt;/h2&gt;
 &lt;p&gt;Race UP Team’s fundamental objectives are growth and innovation, being able to cooperate with a Top Team such as Joanneum Racing Graz has been a precious and constructive opportunity!&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&quot;image featured&quot;&gt;&lt;img src=&quot;/tmp/en/images/posts/2016/12/03/image.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;image featured&quot;&gt;&lt;img src=&quot;/en/images/posts/2016/12/03/image.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 03 Dec 2016 18:35:15 +0100</pubDate>
-        <link>raceup.it/tmp/en/2016/12/03/raceup-joanneum-together</link>
-        <guid isPermaLink="true">raceup.it/tmp/en/2016/12/03/raceup-joanneum-together</guid>
+        <link>raceup.it/en/2016/12/03/raceup-joanneum-together</link>
+        <guid isPermaLink="true">raceup.it/en/2016/12/03/raceup-joanneum-together</guid>
         
         
       </item>
@@ -44,11 +44,11 @@
 &lt;h2 id=&quot;results&quot;&gt;Results&lt;/h2&gt;
 &lt;p&gt;The results represent for the team of students and their supporters a reason to continue the path undertaken with passion, with the intent to improve and achieve new goals.&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&quot;image featured&quot;&gt;&lt;img src=&quot;/tmp/en/images/posts/2016/10/23/image.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;image featured&quot;&gt;&lt;img src=&quot;/en/images/posts/2016/10/23/image.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 23 Oct 2016 19:35:15 +0200</pubDate>
-        <link>raceup.it/tmp/en/2016/10/23/2016-in-review</link>
-        <guid isPermaLink="true">raceup.it/tmp/en/2016/10/23/2016-in-review</guid>
+        <link>raceup.it/en/2016/10/23/2016-in-review</link>
+        <guid isPermaLink="true">raceup.it/en/2016/10/23/2016-in-review</guid>
         
         
       </item>
