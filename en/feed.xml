@@ -3,10 +3,10 @@
   <channel>
     <title>Race UP Team</title>
     <description>Race UP is the FSAE team of the University of Padova. Since 2006 we build one of the fastest racing car in FSAE competitions.</description>
-    <link>raceup.ittmp/en/</link>
-    <atom:link href="raceup.ittmp/en/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 20 Feb 2017 10:41:10 +0100</pubDate>
-    <lastBuildDate>Mon, 20 Feb 2017 10:41:10 +0100</lastBuildDate>
+    <link>raceup.it/tmp/en/</link>
+    <atom:link href="raceup.it/tmp/en/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 20 Feb 2017 10:43:53 +0100</pubDate>
+    <lastBuildDate>Mon, 20 Feb 2017 10:43:53 +0100</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -25,8 +25,8 @@
 &lt;p&gt;&lt;a class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/posts/2016/12/03/image.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 03 Dec 2016 18:35:15 +0100</pubDate>
-        <link>raceup.ittmp/en/2016/12/03/raceup-joanneum-together</link>
-        <guid isPermaLink="true">raceup.ittmp/en/2016/12/03/raceup-joanneum-together</guid>
+        <link>raceup.it/tmp/en/2016/12/03/raceup-joanneum-together</link>
+        <guid isPermaLink="true">raceup.it/tmp/en/2016/12/03/raceup-joanneum-together</guid>
         
         
       </item>
@@ -47,8 +47,8 @@
 &lt;p&gt;&lt;a class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/posts/2016/10/23/image.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 23 Oct 2016 19:35:15 +0200</pubDate>
-        <link>raceup.ittmp/en/2016/10/23/2016-in-review</link>
-        <guid isPermaLink="true">raceup.ittmp/en/2016/10/23/2016-in-review</guid>
+        <link>raceup.it/tmp/en/2016/10/23/2016-in-review</link>
+        <guid isPermaLink="true">raceup.it/tmp/en/2016/10/23/2016-in-review</guid>
         
         
       </item>
