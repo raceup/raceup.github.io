@@ -1,9 +1,6 @@
 # Stuff to do
 All notable fixes and tips to this project will be added to this file.
 
-### Fix
-- logo centering in landing page
-
 ### Add
 - english version
 
