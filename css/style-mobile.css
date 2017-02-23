@@ -162,11 +162,11 @@
 		height: 8em;
 	}
 		#logo-header nav {
-			padding-right: 2.5%;
+			padding-right: 9%;
 		}
 
 			#logo-header nav ul li {
-				margin-left: 1em;
+				margin-left: 10%;
 				display: inline-block;
 			}
 
