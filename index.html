@@ -5,7 +5,6 @@
 
     
     
-
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="description" content="Race UP is the FSAE team of the University of Padova. Since 2006 we build one of the fastest racing car in FSAE competitions.">
     <meta name="keywords" content="raceup unipd fsae" />
@@ -44,10 +43,7 @@
     </noscript>
 
     <!-- Bootstrap Core CSS -->
-    <!-- <link rel="stylesheet" href="/css/bootstrap.min.css" /> -->
-
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="/css/timeline.css" />
+    <!-- <link rel="stylesheet" href="/css/bootstrap.min.css" /> -->    
 
     <!--[if lte IE 8]>
         <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" />
@@ -66,7 +62,7 @@
     <link rel="icon" type="image/png" href="/logo.png">
 </head>
 
-    <body class="index no-fouc" onload="$('.no-fouc').removeClass('no-fouc');">
+    <body class="index no-fouc" onload="$('.no-fouc').removeClass('no-fouc'); window.dispatchEvent(new Event('resize'));">
 
         
 <header id="header" class="no-fouc">
@@ -114,7 +110,7 @@
         </li>
         <li><a href="/join.html">Unisciti a noi</a></li>
         <li><a href="/media.html">Media</a></li>
-        <li><a href="/blog.html">Notizie</a></li>    
+        <li><a href="/blog.html">Blog</a></li>    
         <!-- <li class="icon fa-language"><a href="/en">eng</a></li> -->
     </ul>
 </nav>
@@ -136,10 +132,76 @@
 	    </header>
 	</div>
 </section>
+
+        <!-- news gallery & social views -->
+        <section class="wrapper style3 container" style="margin-bottom: 0.5em;">
+            <div class="row">
+                <div id="newsGallery" class="4u" align="center">
+                    <h2>News dal <a href="/blog.html">blog</a></h2>
+                    <div class="gallery js-flickity">
+                        
+                        <div class="gallery-cell">
+                            <div class="style3">
+                                <h2 align="center"><a href="/2017/02/13/hello-world.html">Benvenuti</a></h2>
+                                <h4 align="center">February 13, 2017</h4>
+                                <div align="center">
+                                    
+                                    <a href="/2017/02/13/hello-world.html" class="button special">Leggi tutto</a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="gallery-cell">
+                            <div class="style3">
+                                <h2 align="center"><a href="/2016/12/03/raceup-joanneum-together.html">RaceUP team e Joanneum</a></h2>
+                                <h4 align="center">December 03, 2016</h4>
+                                <div align="center">
+                                    
+                                    <a href="/2016/12/03/raceup-joanneum-together.html" class="button special">Leggi tutto</a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="gallery-cell">
+                            <div class="style3">
+                                <h2 align="center"><a href="/2016/10/23/2016-in-review.html">Il Resoconto stagionale</a></h2>
+                                <h4 align="center">October 23, 2016</h4>
+                                <div align="center">
+                                    
+                                    <a href="/2016/10/23/2016-in-review.html" class="button special">Leggi tutto</a>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="4u" align="center">
+                    <div class="fb-page" data-href="https://www.facebook.com/Race-UP-Team-Combustion-440618820789/" data-tabs="timeline" data-width="300" data-small-header="false" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="true" >
+                        <blockquote cite="https://www.facebook.com/Race-UP-Team-Combustion-440618820789/" class="fb-xfbml-parse-ignore">
+                            <a href="https://www.facebook.com/Race-UP-Team-Combustion-440618820789/">Race UP Team Combustion</a>
+                        </blockquote>
+                    </div>
+                </div>
+                <div class="4u" align="center">
+                    <div class="fb-page" data-href="https://www.facebook.com/Race-UP-Team-Electric-802147286569414/" data-tabs="timeline" data-width="300" data-small-header="false" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="true">
+                        <blockquote cite="https://www.facebook.com/Race-UP-Team-Electric-802147286569414/" class="fb-xfbml-parse-ignore">
+                            <a href="https://www.facebook.com/Race-UP-Team-Electric-802147286569414/">Race UP Team Electric</a>
+                        </blockquote>
+                    </div>
+                </div>
+            </div>
+        </section>
+            
+
         <div class="page-content">
+            <!-- page content -->
             <article id="main">
 	<!-- Intro -->
 	<section class="wrapper style3 container">
+		<h2 align="center">Il Race UP team</h2>
 		<p>
 			Race UP è il team di Formula SAE dell’Università di Padova. Ogni anno ci poniamo l’ambizioso obiettivo di concepire e produrre da zero un vettura che possa competere con quelle provenienti dalle migliori Università di tutto il mondo in questo contest automobilistico di livello internazionale. Grazie alla natura di questo progetto e al nostro approccio al lavoro, ridefiniamo il concetto stesso di formazione universitaria. Nella nostra storia abbiamo ottenuto numerosi e importanti riconoscimenti, riuscendo a garantire eccellente visibilità ai nostri sponsor e bilanciando le loro esigenze con professionalità.
 		</p>
@@ -147,12 +209,13 @@
 
 	<!-- FSAE -->
 	<section class="wrapper style3 container">
+		<h2 align="center">Le competizioni</h2>
+
 		<!-- logos -->
 		<div class="row">
 			<div class="6u" align="center">
 				<section>
 					<a class="image featured"><img src="/images/sae.jpg"/></a>
-
 					<a class="image featured"><img src="/images/fsae.jpg"/></a>
 				</section>
 			</div>
@@ -216,20 +279,21 @@
 	</footer>
 </section>
 
-        </div>
+        </div>    
+
         <!-- Footer -->
 <footer id="footer">
     <ul class="icons">
-        <li><a href="https://twitter.com/RaceUpTeam" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
-        <li><a href="https://it.linkedin.com/grps/Race-Up-Team-3555234/about?" class="icon circle fa-linkedin"><span class="label">Linkedin</span></a></li>
-        <li><a href="https://www.facebook.com/Race-UP-Team-Combustion-440618820789/" class="icon circle fa-facebook"><span class="label">Facebook CD</span></a></li>
-        <li><a href="https://www.facebook.com/Race-UP-Team-Electric-802147286569414/" class="icon circle fa-facebook"><span class="label">Facebook ED</span></a></li>
+        <!-- <li><a href="https://twitter.com/RaceUpTeam" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li> -->
+        <!-- <li><a href="https://it.linkedin.com/grps/Race-Up-Team-3555234/about?" class="icon circle fa-linkedin"><span class="label">Linkedin</span></a></li> -->
+        <li><a href="https://www.facebook.com/Race-UP-Team-Combustion-440618820789/" title="Combustion division" class="icon circle fa-facebook fa-facebook-cd"><span class="label">Facebook CD</span></a></li>
+        <li><a href="https://www.facebook.com/Race-UP-Team-Electric-802147286569414/" title="Electric division" class="icon circle fa-facebook fa-facebook-ed"><span class="label">Facebook ED</span></a></li>
         <li><a href="https://www.instagram.com/race_up_team/" class="icon circle fa-instagram"><span class="label">Instagram</span></a></li>
-        <li><a href="https://www.youtube.com/user/teamraceup" class="icon circle fa-youtube"><span class="label">Youtube</span></a></li>
-        <li><a href="https://github.com/raceup" class="icon circle fa-github"><span class="label">Github</span></a></li>
-        <li><a href="https://bitbucket.org/raceuped" class="icon circle fa-bitbucket"><span class="label">Bitbucket</span></a></li>
+        <!-- <li><a href="https://www.youtube.com/user/teamraceup" class="icon circle fa-youtube"><span class="label">Youtube</span></a></li> -->
+        <!-- <li><a href="https://github.com/raceup" class="icon circle fa-github"><span class="label">Github</span></a></li> -->
+        <!-- <li><a href="https://bitbucket.org/raceuped" class="icon circle fa-bitbucket"><span class="label">Bitbucket</span></a></li> -->
         <li><a href="mailto:info@raceup.it" class="icon circle fa-envelope"><span class="label">Email</span></a></li>
-        <li><a href="/feed.xml" class="icon circle fa-rss"><span class="label">Email</span></a></li>
+        <!-- <li><a href="/feed.xml" class="icon circle fa-rss"><span class="label">Email</span></a></li> -->
     </ul>
 
     <ul class="copyright">
@@ -237,4 +301,23 @@
     </ul>
 </footer>
     </body>
+
+    <!-- flickity -->
+    <script src="/js/flickity.pkgd.js"></script>
+    <link rel="stylesheet" href="/css/flickity.css">
+
+    <!-- facebook sdk -->
+    <script>
+        (function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) {
+                return;
+            }
+
+            js = d.createElement(s);
+            js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
+    </script>
 </html>

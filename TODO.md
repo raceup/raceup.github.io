@@ -2,7 +2,10 @@
 All notable fixes and tips to this project will be added to this file.
 
 ### Add
-- english version
+- English version
+- news on main page
+- team separation 2017
+- videos
 
 ### Tips
 - minify html/css/js (https://developers.google.com/speed/docs/insights/MinifyResources)

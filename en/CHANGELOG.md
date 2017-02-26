@@ -1,6 +1,27 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## 0.5.3 - 2017-02-26
+
+### Changed
+- timeline.css, flickit is now included only where it's needed
+
+### Fixed
+- news & social css on index.html
+
+## 0.5.2 - 2017-02-25
+
+### Added
+- small footnote on fb icons in footer
+- fb timelines
+- complete team images
+
+### Removed
+- useless footer icons
+
+### Fixed
+- too much blank space in competition section
+
 ## 0.5.1 - 2017-02-24
 
 ### Removed
