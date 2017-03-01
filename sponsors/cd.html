@@ -62,7 +62,7 @@
     <link rel="icon" type="image/png" href="/logo.png">
 </head>
 
-    <body class="no-sidebar no-fouc" onload="$('.no-fouc').removeClass('no-fouc');">
+    <body class="no-sidebar no-fouc" onload="$('.no-fouc').removeClass('no-fouc'); window.dispatchEvent(new Event('resize'));">
 
         
 <header id="header" class="styleCD no-fouc">
