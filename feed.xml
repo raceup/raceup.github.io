@@ -5,8 +5,8 @@
     <description>Race UP is the FSAE team of the University of Padova. Since 2006 we build one of the fastest racing car in FSAE competitions.</description>
     <link>raceup.it/</link>
     <atom:link href="raceup.it/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 05 Mar 2017 21:13:50 +0100</pubDate>
-    <lastBuildDate>Sun, 05 Mar 2017 21:13:50 +0100</lastBuildDate>
+    <pubDate>Sun, 05 Mar 2017 21:32:31 +0100</pubDate>
+    <lastBuildDate>Sun, 05 Mar 2017 21:32:31 +0100</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -14,6 +14,8 @@
         <description>&lt;h2 id=&quot;mecspe--2017&quot;&gt;MECSPE  2017&lt;/h2&gt;
 &lt;p&gt;Quest’anno grazie a &lt;strong&gt;Confartigianato  Padova&lt;/strong&gt; parteciperemo a &lt;strong&gt;MECSPE 2017&lt;/strong&gt;, che si terrà presso la Fiera di Parma dal 23 al 25 Marzo. Per l’occasione abbiamo creato una serie di video per farvi vedere chi siamo e cosa facciamo, eccovi il &lt;a href=&quot;https://youtu.be/Xb8x33uwORU&quot;&gt;&lt;strong&gt;primo&lt;/strong&gt;&lt;/a&gt; con il nostro Team Leader &lt;strong&gt;Marco Tavoso&lt;/strong&gt;.&lt;br /&gt;
 Buona Visione&lt;/p&gt;
+
+&lt;iframe src=&quot;https://youtube.com/embed/Xb8x33uwORU&quot; onload=&quot;this.width=screen.width * 0.86; this.height=screen.height * 0.5;&quot;&gt;&lt;/iframe&gt;
 
 &lt;h3 id=&quot;un-saluto-da-race-up-team&quot;&gt;Un saluto da &lt;strong&gt;Race UP Team&lt;/strong&gt;&lt;/h3&gt;
 </description>
