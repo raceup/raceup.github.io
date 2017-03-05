@@ -1,6 +1,18 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## 0.5.9 - 2017-03-05
+
+### Added
+- contact us in menu
+- links to fsae page on fsae image in landing page
+
+### Fixed
+- 'la squadra' not centered (/team/us.html)
+
+### Changed
+- back to original 3D pie style (now using highcharts library)
+
 ## 0.5.8 - 2017-03-02
 
 ### Fixed
