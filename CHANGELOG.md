@@ -5,10 +5,14 @@ All notable changes to this project will be documented in this file.
 
 ### Fixed
 - 'bleron' school thanks to @Michele
+- 'join us' section picture on the left, description on the right
+- 'efesto lab' in big sponsors
+- 'efesto lab' img
 
 ### Added
 - 'join us' section with luca
 - part of missing cd logos descriptions
+- brochure links in home, media and contact us sections
 
 ## 0.6.4 - 2017-03-13
 
