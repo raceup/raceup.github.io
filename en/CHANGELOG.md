@@ -1,6 +1,16 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## 0.7.2 - 2017-04-15
+
+### Added
+- social icons in footer
+- paypal link-on-page
+- post about paypal
+
+### Refactored
+- module for paypal button
+
 ## 0.7.1 - 2017-04-11
 
 ### Added
