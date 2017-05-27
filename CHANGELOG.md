@@ -1,6 +1,33 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## 0.7.9 - 2017-05-27
+
+### Added
+- new banner
+- new units images
+
+## 0.7.8 - 2017-05-27
+
+### Added
+- academy page and content
+- academy submenu in header
+- biz team image
+- new ED logo in timeline
+
+### Fixed
+- header nav width
+- out of focus oz logo
+
+## 0.7.7 - 2017-05-27
+
+### Fixed
+- number of students in project description
+- removed Thomas from team
+
+### Removed
+- Sonic, Bercella, Endrich components sponsor logos
+
 ## 0.7.6 - 2017-05-15
 
 ### Added
