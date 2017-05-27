@@ -5,6 +5,7 @@ All notable fixes and tips to this project will be added to this file.
 ## Fix
 - email form not working (ask tav)
 - add prev emails from .vcf
+- fix home banner style
 
 
 ## Tips
@@ -87,67 +88,6 @@ All notable fixes and tips to this project will be added to this file.
 
 
 ## Missing logos https://drive.google.com/drive/u/0/folders/0BxdYGZmsZOTxa2RWUk10QjhtYjA (Marketing – 2017 – sponsor – banner sponsor)
-
-### Cd
-- Zf
-- Ext
-- Frt
-- Beta
-- Rohm italia
-- Sintesi
-- Sensata
-- Tecnocurve
-- Unit
-- Fd motors
-- Ltm
-- Help 3d
-- Meccanica putti
-- Omc
-- Microtex
-- Mpz
-- Cd adapco
-- Cfp
-- Altair
-- Cebora
-- Freem
-- Mattarollo
-- Prochima
-
-### Ed
-- Zf
-- Mpz
-- Elpav instruments
-- Grimeca
-- Md
-- Buson
-- Modelleria zuin
-- Stile
-- Esseti
-- 3d fast
-- Angeloni
-- Microtex
-- Getecno
-- Modelleria tardivo
-- Giotto
-- Tormec
-- Shaffler 
-- Avm
-- Fd motors
-- Brunello
-- Ext
-- Fia
-- L’anodica scaligera
-- Dissegna
-- Loctite
-- Plan
-- Lucenti group
-- Sendyne
-- Tecning
-- Confertigianato
-- Unit
-- Centro resine
-- Coadapco
-- Altair
 
 ## To be removed logos
 
