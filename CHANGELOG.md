@@ -7,6 +7,9 @@ All notable changes to this project will be documented in this file.
 - background image width
 - header with logos on single line
 
+### Added
+- ganalytics script
+
 ## 0.7.9.1 - 2017-05-28
 
 ### Removed
