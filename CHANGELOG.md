@@ -1,6 +1,20 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## 0.7.9.2 - 2017-05-28
+
+### Fixed
+- background image width
+- header with logos on single line
+
+## 0.7.9.1 - 2017-05-28
+
+### Removed
+- twitter, bitbucket, linkedin, rss, github footer icons
+
+### Added
+- background image with opacity
+
 ## 0.7.9 - 2017-05-27
 
 ### Added
