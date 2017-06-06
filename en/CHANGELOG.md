@@ -1,6 +1,15 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## 0.7.9.3 - 2017-06-06
+
+### Added
+- new raw zf images
+- zf media section with link to full-size images
+
+### Removed
+- academy page
+
 ## 0.7.9.2 - 2017-05-28
 
 ### Fixed
