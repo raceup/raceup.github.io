@@ -5,12 +5,68 @@
     <description>Race UP is the FSAE team of the University of Padova. Since 2006 we build one of the fastest racing car in FSAE competitions.</description>
     <link>raceup.it/</link>
     <atom:link href="raceup.it/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 04 Jul 2017 17:05:49 +0200</pubDate>
-    <lastBuildDate>Tue, 04 Jul 2017 17:05:49 +0200</lastBuildDate>
+    <pubDate>Tue, 25 Jul 2017 15:42:53 +0200</pubDate>
+    <lastBuildDate>Tue, 25 Jul 2017 15:42:53 +0200</lastBuildDate>
     <generator>Jekyll v3.5.0</generator>
     
       <item>
-        <title> ZF Race Camp</title>
+        <title>Abbiamo vinto!!!</title>
+        <description>&lt;p&gt;Notizie da FSAE Italy: siamo davvero felici di annunciare che la divisione elettrica di Race Up ha raggiunto il &lt;strong&gt;&lt;a href=&quot;http://www.ata.it/sites/default/files/ranking_class31.pdf&quot;&gt;primo posto&lt;/a&gt;&lt;/strong&gt; in classe 3 della Formula SAE Italy!&lt;/p&gt;
+
+&lt;p&gt;Dopo aver conquistato il primo posto nel &lt;a href=&quot;http://www.ata.it/sites/default/files/ranking_design_class3.pdf&quot;&gt;Design event&lt;/a&gt; e nel &lt;a href=&quot;http://www.ata.it/sites/default/files/ranking_presentation_class3.pdf&quot;&gt;Business Plan Presentation event&lt;/a&gt; della classe 3, abbiamo ottenuto un discreto margine di punti che ci hanno permesso di salire sul gradino più alto del podio della classe 3 FSAE.&lt;/p&gt;
+
+&lt;p&gt;Tutto questo non sarebbe stato possibile senza una squadra così unita, forte e determinata. Grazie a tutti! E grazie a tutti gli sponsor e all’Università degli Studi di Padova per averci assistito nel successo.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/posts/2017/07/25/podium.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ecco alcune prime foto dell’evento elettrico … stay tuned for more!&lt;/p&gt;
+
+&lt;!-- flickity --&gt;
+&lt;script src=&quot;/js/flickity.pkgd.js&quot;&gt;&lt;/script&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/css/flickity.css&quot; /&gt;
+
+&lt;!-- ed --&gt;
+&lt;section class=&quot;wrapper style3&quot;&gt;
+    &lt;div align=&quot;center&quot;&gt;
+        &lt;div class=&quot;carousel&quot; data-flickity=&quot;{ &amp;quot;imagesLoaded&amp;quot;: true, &amp;quot;percentPosition&amp;quot;: false }&quot;&gt;
+		    &lt;a href=&quot;/images/posts/2017/07/25/gallery/full/ed/1.jpg&quot;&gt;
+				&lt;img src=&quot;/images/posts/2017/07/25/gallery/ed/1.jpg&quot; /&gt;
+			&lt;/a&gt;
+			&lt;a href=&quot;/images/posts/2017/07/25/gallery/full/ed/1b.jpg&quot;&gt;
+				&lt;img src=&quot;/images/posts/2017/07/25/gallery/ed/1b.jpg&quot; /&gt;
+			&lt;/a&gt;
+			&lt;a href=&quot;/images/posts/2017/07/25/gallery/full/ed/1c.jpg&quot;&gt;
+				&lt;img src=&quot;/images/posts/2017/07/25/gallery/ed/1c.jpg&quot; /&gt;
+			&lt;/a&gt;
+			&lt;a href=&quot;/images/posts/2017/07/25/gallery/full/ed/2.jpg&quot;&gt;
+				&lt;img src=&quot;/images/posts/2017/07/25/gallery/ed/2.jpg&quot; /&gt;
+			&lt;/a&gt;
+			&lt;a href=&quot;/images/posts/2017/07/25/gallery/full/ed/3b.jpg&quot;&gt;
+				&lt;img src=&quot;/images/posts/2017/07/25/gallery/ed/3b.jpg&quot; /&gt;
+			&lt;/a&gt;
+			&lt;a href=&quot;/images/posts/2017/07/25/gallery/full/ed/3.jpeg&quot;&gt;
+				&lt;img src=&quot;/images/posts/2017/07/25/gallery/ed/3.jpeg&quot; /&gt;
+			&lt;/a&gt;
+			&lt;a href=&quot;/images/posts/2017/07/25/gallery/full/ed/4.jpg&quot;&gt;
+				&lt;img src=&quot;/images/posts/2017/07/25/gallery/ed/4.jpg&quot; /&gt;
+			&lt;/a&gt;
+			&lt;a href=&quot;/images/posts/2017/07/25/gallery/full/ed/5.jpg&quot;&gt;
+				&lt;img src=&quot;/images/posts/2017/07/25/gallery/ed/5.jpg&quot; /&gt;
+			&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+</description>
+        <pubDate>Tue, 25 Jul 2017 16:20:04 +0200</pubDate>
+        <link>raceup.it/2017/07/25/varano-2k17</link>
+        <guid isPermaLink="true">raceup.it/2017/07/25/varano-2k17</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>ZF Race Camp</title>
         <description>&lt;h2 id=&quot;zf-race-camp-2017-recap&quot;&gt;ZF Race Camp 2017 recap&lt;/h2&gt;
 
 &lt;p&gt;Assieme ad altri 23 teams provenienti da tutta Europa siamo stati invitati a partecipare a &lt;strong&gt;ZF Race Camp 2017&lt;/strong&gt;, presso gli spazi espositivi della Fiera di Friedrichshafen, dal 31 Maggio al 2 giugno 2017.&lt;br /&gt;
@@ -189,28 +245,6 @@ Condividete, mandateci email, consigli!&lt;/p&gt;
         <pubDate>Mon, 13 Feb 2017 12:02:28 +0100</pubDate>
         <link>raceup.it/2017/02/13/hello-world</link>
         <guid isPermaLink="true">raceup.it/2017/02/13/hello-world</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>RaceUP team e Joanneum</title>
-        <description>&lt;p&gt;Si è conclusa da due giorni la sessione di test sul circuito Pista Azzurra di Jesolo, che ha visto impegnato il nostro Race UP Team in collaborazione con il Team austriaco Joanneum Racing Graz, nelle giornate dal 28 al 30 novembre scorso.&lt;/p&gt;
-
-&lt;h2 id=&quot;lincontro&quot;&gt;L’incontro&lt;/h2&gt;
-&lt;p&gt;La pista ha visto protagoniste le vetture che hanno preso parte al Campionato Formula SAE della stagione 2015/2016: la nostra MG 11.16 di Race UP Team Combustion Division e la JR16 di Joanneum Racing Graz. La conformazione del circuito e la bassa temperatura dell’asfalto hanno messo a dura prova l’assetto e l’affidabilità delle due auto.&lt;/p&gt;
-
-&lt;h2 id=&quot;tre-giorni-di-test&quot;&gt;Tre giorni di test&lt;/h2&gt;
-&lt;p&gt;La tre giorni di test ha rivestito grande importanza, in quanto ha permesso a entrambi i Team di entrare nell’ottica della competizione che avrà luogo durante il Campionato 2016/2017. Un aspetto ancora più rilevante è stato quello di interfacciarsi a vicenda per consolidare i già ottimi rapporti di stima e amicizia, attraverso lo scambio reciproco di informazioni tecniche e organizzative e dei know – how utili per affrontare al meglio la stagione alle porte.&lt;/p&gt;
-
-&lt;h2 id=&quot;innovazione-e-crescita&quot;&gt;Innovazione e crescita&lt;/h2&gt;
-&lt;p&gt;Per Race UP Team, l’innovazione e la crescita sono gli obiettivi fondamentali. Cooperare insieme a un Top Team come gli amici di Joanneum Racing Graz è stata un’occasione preziosa e costruttiva!&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/posts/2016/12/03/image.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 03 Dec 2016 18:35:15 +0100</pubDate>
-        <link>raceup.it/2016/12/03/raceup-joanneum-together</link>
-        <guid isPermaLink="true">raceup.it/2016/12/03/raceup-joanneum-together</guid>
         
         
       </item>
