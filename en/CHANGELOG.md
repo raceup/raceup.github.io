@@ -1,6 +1,18 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## 0.8.6 - 2017-08-25
+
+### Added
+- fsg 2017 media gallery
+- varano 2017 media gallery
+- script to add images in 'media' section
+- script to edit images
+
+### Refactored
+- mkdir 'scripts' with tools to automate site creation
+- run/upload scripts to 'scripts' folder
+
 ## 0.8.5 - 2017-08-20
 
 ### Added
