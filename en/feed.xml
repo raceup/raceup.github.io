@@ -1,54 +1,250 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Race UP Team</title>
-    <description>Race UP is the FSAE team of the University of Padova. Since 2006 we build one of the fastest racing car in FSAE competitions.</description>
+    <title>Race Up Team</title>
+    <description>Race Up is the FSAE team of the University of Padova. Since 2006 we build one of the fastest racing car in FSAE competitions.</description>
     <link>raceup.it/en/</link>
     <atom:link href="raceup.it/en/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 10 Sep 2017 18:03:11 +0200</pubDate>
-    <lastBuildDate>Sun, 10 Sep 2017 18:03:11 +0200</lastBuildDate>
+    <pubDate>Tue, 12 Sep 2017 20:01:47 +0200</pubDate>
+    <lastBuildDate>Tue, 12 Sep 2017 20:01:47 +0200</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
-        <title>RaceUP Team and Joanneum</title>
-        <description>&lt;p&gt;The Joint test session held in Pista Azzurra (Jesolo VE) from 28/11 to 30/11 between the Race UP Team and Joanneum Racing Graz finished 2 days ago.&lt;/p&gt;
+        <title>We won!!!</title>
+        <description>&lt;p&gt;Notizie da FSAE Italy: siamo davvero felici di annunciare che la divisione elettrica di Race Up ha raggiunto il &lt;strong&gt;&lt;a href=&quot;http://www.ata.it/sites/default/files/ranking_class31.pdf&quot;&gt;primo posto&lt;/a&gt;&lt;/strong&gt; in classe 3 della Formula SAE Italy!&lt;/p&gt;
 
-&lt;h2 id=&quot;the-meeting&quot;&gt;The meeting&lt;/h2&gt;
-&lt;p&gt;The technical nature of the track coupled with low temperatures experienced during the test days put under great pressure both the handling and the reliability of the two cars involved: the MG 11.16 from Padua and the JR16 from Graz.&lt;/p&gt;
+&lt;p&gt;Dopo aver conquistato il primo posto nel &lt;a href=&quot;http://www.ata.it/sites/default/files/ranking_design_class3.pdf&quot;&gt;Design event&lt;/a&gt; e nel &lt;a href=&quot;http://www.ata.it/sites/default/files/ranking_presentation_class3.pdf&quot;&gt;Business Plan Presentation event&lt;/a&gt; della classe 3, abbiamo ottenuto un discreto margine di punti che ci hanno permesso di salire sul gradino più alto del podio della classe 3 FSAE.&lt;/p&gt;
 
-&lt;h2 id=&quot;three-days-of-test-test-test&quot;&gt;Three days of test, test, test&lt;/h2&gt;
-&lt;p&gt;The 3 test days have been extremely important as they enabled the two teams to acquire valuable information to be used in the next season. Just as important was the possibility to consolidate the already excellent relationship between the two teams through a mutual exchange of competencies and know-how.&lt;/p&gt;
+&lt;p&gt;Tutto questo non sarebbe stato possibile senza una squadra così unita, forte e determinata. Grazie a tutti! E grazie a tutti gli sponsor e all’Università degli Studi di Padova per averci assistito nel successo.&lt;/p&gt;
 
-&lt;h2 id=&quot;always-learning&quot;&gt;Always learning&lt;/h2&gt;
-&lt;p&gt;Race UP Team’s fundamental objectives are growth and innovation, being able to cooperate with a Top Team such as Joanneum Racing Graz has been a precious and constructive opportunity!&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/posts/2017/07/25/podium.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/posts/2016/12/03/image.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ecco alcune prime foto dell’evento elettrico … stay tuned for more!&lt;/p&gt;
+
+&lt;!-- flickity --&gt;
+&lt;script src=&quot;/js/flickity.pkgd.js&quot;&gt;&lt;/script&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/css/flickity.css&quot; /&gt;
+
+&lt;!-- ed --&gt;
+&lt;section class=&quot;wrapper style3&quot;&gt;
+    &lt;div align=&quot;center&quot;&gt;
+        &lt;div class=&quot;carousel&quot; data-flickity=&quot;{ &amp;quot;imagesLoaded&amp;quot;: true, &amp;quot;percentPosition&amp;quot;: false }&quot;&gt;
+		    &lt;a href=&quot;/images/posts/2017/07/25/gallery/full/ed/1.jpg&quot;&gt;
+				&lt;img src=&quot;/images/posts/2017/07/25/gallery/ed/1.jpg&quot; /&gt;
+			&lt;/a&gt;
+			&lt;a href=&quot;/images/posts/2017/07/25/gallery/full/ed/1b.jpg&quot;&gt;
+				&lt;img src=&quot;/images/posts/2017/07/25/gallery/ed/1b.jpg&quot; /&gt;
+			&lt;/a&gt;
+			&lt;a href=&quot;/images/posts/2017/07/25/gallery/full/ed/1c.jpg&quot;&gt;
+				&lt;img src=&quot;/images/posts/2017/07/25/gallery/ed/1c.jpg&quot; /&gt;
+			&lt;/a&gt;
+			&lt;a href=&quot;/images/posts/2017/07/25/gallery/full/ed/2.jpg&quot;&gt;
+				&lt;img src=&quot;/images/posts/2017/07/25/gallery/ed/2.jpg&quot; /&gt;
+			&lt;/a&gt;
+			&lt;a href=&quot;/images/posts/2017/07/25/gallery/full/ed/3b.jpg&quot;&gt;
+				&lt;img src=&quot;/images/posts/2017/07/25/gallery/ed/3b.jpg&quot; /&gt;
+			&lt;/a&gt;
+			&lt;a href=&quot;/images/posts/2017/07/25/gallery/full/ed/3.jpeg&quot;&gt;
+				&lt;img src=&quot;/images/posts/2017/07/25/gallery/ed/3.jpeg&quot; /&gt;
+			&lt;/a&gt;
+			&lt;a href=&quot;/images/posts/2017/07/25/gallery/full/ed/4.jpg&quot;&gt;
+				&lt;img src=&quot;/images/posts/2017/07/25/gallery/ed/4.jpg&quot; /&gt;
+			&lt;/a&gt;
+			&lt;a href=&quot;/images/posts/2017/07/25/gallery/full/ed/5.jpg&quot;&gt;
+				&lt;img src=&quot;/images/posts/2017/07/25/gallery/ed/5.jpg&quot; /&gt;
+			&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
 </description>
-        <pubDate>Sat, 03 Dec 2016 18:35:15 +0100</pubDate>
-        <link>raceup.it/en/2016/12/03/raceup-joanneum-together.html</link>
-        <guid isPermaLink="true">raceup.it/en/2016/12/03/raceup-joanneum-together</guid>
+        <pubDate>Tue, 25 Jul 2017 16:20:04 +0200</pubDate>
+        <link>raceup.it/en/2017/07/25/varano-2k17.html</link>
+        <guid isPermaLink="true">raceup.it/en/2017/07/25/varano-2k17</guid>
         
         
       </item>
     
       <item>
-        <title>Seasonal summary</title>
-        <description>&lt;p&gt;The Race UP Team Combustion Division, the project Formula SAE team at the University of Padua, is composed of thirty-five students from different departments of the university.&lt;/p&gt;
+        <title> ZF Race Camp</title>
+        <description>&lt;h2 id=&quot;zf-race-camp-2017-recap&quot;&gt;ZF Race Camp 2017 recap&lt;/h2&gt;
 
-&lt;h2 id=&quot;determination-and-innovation&quot;&gt;Determination and innovation&lt;/h2&gt;
-&lt;p&gt;The determination, the shared passion for improvement and innovation have allowed the team of students to achieve significant successes in the design, production and development of the car with an internal combustion engine. Thanks to the support of the University of Padua and of local and international companies, such as OZ Racing, and the commitment of the team, the team participated in the 2016 season of the Formula SAE: an international car race reserved for universities, which each year has committed about 500 universities around the world.&lt;/p&gt;
+&lt;p&gt;Assieme ad altri 23 teams provenienti da tutta Europa siamo stati invitati a partecipare a &lt;strong&gt;ZF Race Camp 2017&lt;/strong&gt;, presso gli spazi espositivi della Fiera di Friedrichshafen, dal 31 Maggio al 2 giugno 2017.&lt;br /&gt;
+Grazie a questo pre-evento abbiamo avuto la possibilità di incontrare tantissime altre persone che condividono la nostra stessa passione e abbiamo potuto testare a fondo le prestazioni della nuova monoposto combustion, la &lt;strong&gt;MG 12.17&lt;/strong&gt; traendone ottimi dati in vista degli eventi che ci attendono quest’estate.&lt;/p&gt;
 
-&lt;h2 id=&quot;our-2016&quot;&gt;Our 2016&lt;/h2&gt;
-&lt;p&gt;More specifically, in 2016 the UP Race Team had the honor to participate in two events Significant progress with the car MG 16/11, presented in May in the department of Mechanical Engineering. The first of these is the twelfth edition of the Formula SAE Italy (Formula ATA), held in July at the Circuit Riccardo Paletti in Varano De ‘Melegari (Parma), where the fruit of the work of the Team took first place in the design and in Skid Pad and third place nell’Autocross, finishing in seventh place in the final of thirty-nine overall. In the second event, Formula Student Germany (FSG), held in August at the Hockenheimring circuit in Germany, the team it finished in fifteenth place on seventy-three in the overall standings.&lt;/p&gt;
+&lt;p&gt;With other 23 Formula Student/Sae teams we have been invited to the &lt;strong&gt;ZF Race Camp 2017&lt;/strong&gt;, held by ZF at the Friedrichshafen Fairground, from the 31st of May to the 2nd of June 2017.&lt;br /&gt;
+Thanks to this pre-event we had the possibility to meet a lot of people that share our passion and to test our brand new combustion car, the &lt;strong&gt;MG 12.17&lt;/strong&gt;, acquiring a huge quantity of data, towards the events that we will attend this summer.&lt;/p&gt;
 
-&lt;h2 id=&quot;results&quot;&gt;Results&lt;/h2&gt;
-&lt;p&gt;The results represent for the team of students and their supporters a reason to continue the path undertaken with passion, with the intent to improve and achieve new goals.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;“This event is an ideal platform for us to initiate discussions with dedicated young people,”&lt;/em&gt; says &lt;strong&gt;Martin Frick&lt;/strong&gt;, head of ZF HR Marketing. By combining a solid engineering and IT education with a passion for the emotionally charged sport of race car driving is what makes this design competition so special.&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/posts/2016/10/23/image.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/posts/2017/06/24/image.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;un-saluto-da-tutto-il-race-up-team&quot;&gt;Un saluto da tutto il &lt;strong&gt;Race Up Team&lt;/strong&gt;&lt;/h3&gt;
 </description>
-        <pubDate>Sun, 23 Oct 2016 19:35:15 +0200</pubDate>
-        <link>raceup.it/en/2016/10/23/2016-in-review.html</link>
-        <guid isPermaLink="true">raceup.it/en/2016/10/23/2016-in-review</guid>
+        <pubDate>Sat, 24 Jun 2017 15:02:28 +0200</pubDate>
+        <link>raceup.it/en/2017/06/24/zf.html</link>
+        <guid isPermaLink="true">raceup.it/en/2017/06/24/zf</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Galileo Festival 2017</title>
+        <description>&lt;p&gt;Questa settimana sarà estremamente movimentata, subito dopo la presentazione delle monoposto di Mercoledì 10 Maggio parteciperemo al Galileo Festival: da Giovedì 11 a Sabato 13 Maggio presso Villaggio dell’Innovazione, tra il Palazzo del Bo e Palazzo Moroni.&lt;br /&gt;
+Assieme ad altre eccellenze dell’Università di Padova esporremo la nostra monoposto elettrica in un evento in cui potrete scoprire come nasce l’innovazione all’interno del nostro Ateneo.&lt;br /&gt;
+Non vediamo l’ora di incontrarvi e di mostrarvi il nostro progetto!&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/posts/2017/05/06/image.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ci vediamo lì!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;un-saluto-da-tutto-il-race-up-team&quot;&gt;Un saluto da tutto il &lt;strong&gt;Race Up Team&lt;/strong&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Sat, 06 May 2017 15:02:28 +0200</pubDate>
+        <link>raceup.it/en/2017/05/06/galileo2017.html</link>
+        <guid isPermaLink="true">raceup.it/en/2017/05/06/galileo2017</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Launch 2017</title>
+        <description>&lt;h2 id=&quot;presentazione-monoposto-2017&quot;&gt;Presentazione Monoposto 2017&lt;/h2&gt;
+
+&lt;p&gt;I lavori procedono a ritmi serrati, le nostre nuove monoposto sono quasi pronte e non vediamo l’ora di mostrarvele.&lt;br /&gt;
+Vogliamo invitarvi tutti alla presentazione che si terrà &lt;strong&gt;Mercoledì 10 Maggio 2017, presso l’aula M1 del Dipartimento di Ingegneria Industriale in Via Venezia 1, Padova.&lt;/strong&gt; Troverete maggiorni informazioni cliccando  &lt;a href=&quot;https://www.facebook.com/events/134171767125003/&quot;&gt;&lt;strong&gt;QUI&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/posts/2017/04/27/image.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ci vediamo lì!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;un-saluto-da-tutto-il-race-up-team&quot;&gt;Un saluto da tutto il &lt;strong&gt;Race Up Team&lt;/strong&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Thu, 27 Apr 2017 15:02:28 +0200</pubDate>
+        <link>raceup.it/en/2017/04/27/debut2017.html</link>
+        <guid isPermaLink="true">raceup.it/en/2017/04/27/debut2017</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Support us</title>
+        <description>&lt;h2 id=&quot;campagna-donazioni-2017&quot;&gt;Campagna Donazioni 2017&lt;/h2&gt;
+
+&lt;p&gt;Come ogni anno la realizzazione delle nostre monoposto è molto dispendiosa in termini di tempo e soprattutto denaro. Siamo alla costante ricerca di Partners e Sponsors e da quest’anno vogliamo dare a tutti la possibilità di supportarci, anche con una piccola donazione.&lt;br /&gt;
+In fondo alla Home del nostro nuovo sito web troverete un nuovo pulsante &lt;a href=&quot;/index.html#paypal&quot;&gt;DONAZIONE&lt;/a&gt;, cliccando potrete donare una qualsiasi somma attraverso le principali carte di credito e PayPal.&lt;/p&gt;
+
+&lt;p&gt;Perché supportarci? Semplice, perché ci volete bene&lt;/p&gt;
+
+&lt;h3 id=&quot;un-grazie-ed-un-saluto-da-tutto-il-race-up-team&quot;&gt;Un grazie ed un saluto da tutto il &lt;strong&gt;Race Up Team&lt;/strong&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Sat, 15 Apr 2017 14:02:28 +0200</pubDate>
+        <link>raceup.it/en/2017/04/15/donazione.html</link>
+        <guid isPermaLink="true">raceup.it/en/2017/04/15/donazione</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>MECSPE pt.4 2017</title>
+        <description>&lt;h2 id=&quot;mecspe--2017-pt4&quot;&gt;MECSPE  2017 pt.4&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;-1&lt;/strong&gt; &lt;strong&gt;a MECSPE 2017&lt;/strong&gt;&lt;br /&gt;
+Ultimo appuntamento in vista di MECSPE 2017, a cui parteciperemo grazie a &lt;a href=&quot;http://www.upa.padova.it/sp/home-it.3sp&quot;&gt;Confartigianato Padova&lt;/a&gt;.&lt;br /&gt;
+In questo &lt;a href=&quot;https://youtu.be/Y_5piPzyt7o&quot;&gt;&lt;strong&gt;video&lt;/strong&gt;&lt;/a&gt; Marco Munaro, responsabile tecnico della Divisione Electric, ci racconta cosa succede dietro le quinte del team impegnato nella realizzazione della monoposto elettrica.&lt;br /&gt;
+Vi ricordiamo che troverete la nostra monoposto elettrica esposta al &lt;strong&gt;padiglione 7&lt;/strong&gt;, &lt;strong&gt;stand C 120&lt;/strong&gt; durante tutto il periodo della manifestazione.&lt;/p&gt;
+
+&lt;p&gt;Buona Visione!&lt;br /&gt;
+Ci vediamo alla Fiera di Parma!&lt;/p&gt;
+&lt;iframe src=&quot;https://youtube.com/embed/Y_5piPzyt7o&quot; onload=&quot;this.width=screen.width * 0.5; this.height=screen.height * 0.5;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;un-saluto-da-race-up-team&quot;&gt;Un saluto da &lt;strong&gt;Race Up Team&lt;/strong&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Wed, 22 Mar 2017 14:02:28 +0100</pubDate>
+        <link>raceup.it/en/2017/03/22/mecspe4.html</link>
+        <guid isPermaLink="true">raceup.it/en/2017/03/22/mecspe4</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>MECSPE part 3 2017</title>
+        <description>&lt;h2 id=&quot;mecspe--2017-pt3&quot;&gt;MECSPE  2017 pt.3&lt;/h2&gt;
+&lt;p&gt;Terzo appuntamento in vista di MECSPE 2017, a cui parteciperemo grazie a &lt;a href=&quot;http://www.upa.padova.it/sp/home-it.3sp&quot;&gt;Confartigianato Padova&lt;/a&gt;. In questo &lt;a href=&quot;https://youtu.be/8GvOrqkJuNs&quot;&gt;&lt;strong&gt;video&lt;/strong&gt;&lt;/a&gt; Marco Pietrangelo, responsabile tecnico della Divisione Combustion, ci racconta cosa succede dietro le quinte del team impegnato nella realizzazione della monoposto a combustione interna.&lt;/p&gt;
+
+&lt;p&gt;Buona Visione&lt;/p&gt;
+&lt;iframe src=&quot;https://youtube.com/embed/8GvOrqkJuNs&quot; onload=&quot;this.width=screen.width * 0.5; this.height=screen.height * 0.5;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;un-saluto-da-race-up-team&quot;&gt;Un saluto da &lt;strong&gt;Race Up Team&lt;/strong&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Sun, 19 Mar 2017 20:02:28 +0100</pubDate>
+        <link>raceup.it/en/2017/03/19/mecspe3.html</link>
+        <guid isPermaLink="true">raceup.it/en/2017/03/19/mecspe3</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>MECSPE part 2 2017</title>
+        <description>&lt;h2 id=&quot;mecspe--2017-pt2&quot;&gt;MECSPE  2017 pt.2&lt;/h2&gt;
+&lt;p&gt;Secondo appuntamento in vista di MECSPE 2017, a cui parteciperemo grazie a &lt;a href=&quot;http://www.upa.padova.it/sp/home-it.3sp&quot;&gt;Confartigianato Padova&lt;/a&gt;.&lt;br /&gt;
+In questo &lt;a href=&quot;https://www.youtube.com/watch?v=-Rueu8PnHxg&quot;&gt;&lt;strong&gt;video&lt;/strong&gt;&lt;/a&gt; Giacomo Ballotta, ex responsabile tecnico ed ora R&amp;amp;D Engineer in Dallara, ci racconta il suo percorso dal Race Up Team al mondo del lavoro.&lt;/p&gt;
+
+&lt;p&gt;Buona Visione&lt;/p&gt;
+&lt;iframe src=&quot;https://youtube.com/embed/-Rueu8PnHxg&quot; onload=&quot;this.width=screen.width * 0.5; this.height=screen.height * 0.5;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;un-saluto-da-race-up-team&quot;&gt;Un saluto da &lt;strong&gt;Race Up Team&lt;/strong&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Mon, 13 Mar 2017 20:02:28 +0100</pubDate>
+        <link>raceup.it/en/2017/03/13/mecspe2.html</link>
+        <guid isPermaLink="true">raceup.it/en/2017/03/13/mecspe2</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>MECSPE 2017</title>
+        <description>&lt;h2 id=&quot;mecspe--2017&quot;&gt;MECSPE  2017&lt;/h2&gt;
+&lt;p&gt;Quest’anno grazie a &lt;strong&gt;Confartigianato  Padova&lt;/strong&gt; parteciperemo a &lt;strong&gt;MECSPE 2017&lt;/strong&gt;, che si terrà presso la Fiera di Parma dal 23 al 25 Marzo. Per l’occasione abbiamo creato una serie di video per farvi vedere chi siamo e cosa facciamo, eccovi il &lt;a href=&quot;https://youtu.be/Xb8x33uwORU&quot;&gt;&lt;strong&gt;primo&lt;/strong&gt;&lt;/a&gt; con il nostro Team Leader &lt;strong&gt;Marco Tavoso&lt;/strong&gt;.&lt;br /&gt;
+Buona Visione&lt;/p&gt;
+
+&lt;iframe src=&quot;https://youtube.com/embed/Xb8x33uwORU&quot; onload=&quot;this.width=screen.width * 0.5; this.height=screen.height * 0.5;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;un-saluto-da-race-up-team&quot;&gt;Un saluto da &lt;strong&gt;Race Up Team&lt;/strong&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Sun, 05 Mar 2017 20:02:28 +0100</pubDate>
+        <link>raceup.it/en/2017/03/05/mecspe.html</link>
+        <guid isPermaLink="true">raceup.it/en/2017/03/05/mecspe</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Welcome!</title>
+        <description>&lt;p&gt;Siamo un team di oltre 60 studenti appassionati di auto, meccanica ed elettronica. Durante la settimana studenti, al sabato progettiamo e costruiamo macchine da corsa. Dal 2006 ormai ci ritroviamo in una sala tutte le settimane da Novembre a Luglio.&lt;br /&gt;
+Lo stimolo? Vincere il campionato Formula Student in prestigiosi scenari come Hockenheimring, Silverstone, Shanghai International Circuit …&lt;br /&gt;
+Il risultato? 11 macchine combustion e 2 elettriche.&lt;br /&gt;
+E adesso anche una nuova pagina web.&lt;/p&gt;
+
+&lt;h2 id=&quot;cosa-troverete&quot;&gt;Cosa troverete&lt;/h2&gt;
+&lt;p&gt;Abbiamo rinnovato questa pagina per essere più vicini a voi, agli sponsors e a chiunque sia interessato al nostro progetto. Oltre all’archivio delle passate stagioni e team, troverete le più recenti news dal team e descrizioni, unveling e dettagli sulle macchine che stiamo sviluppando. Presto anche una galleria fotografica con una lista dei video più esaltanti sarà pronta, ma intanto …&lt;/p&gt;
+
+&lt;h2 id=&quot;come-seguirci-in-altri-socials&quot;&gt;Come seguirci in altri socials&lt;/h2&gt;
+&lt;p&gt;… seguiteci sui social: facebook, twitter, instagram, youtube!&lt;br /&gt;
+Al momento gli interessati in elettronica troveranno del materiale sample sulla nostra pagina Github e bitbucket.&lt;br /&gt;
+Condividete, mandateci email, consigli!&lt;/p&gt;
+
+&lt;h3 id=&quot;un-saluto-da-race-up-team&quot;&gt;Un saluto da &lt;strong&gt;Race Up Team&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/posts/2016/04/17/image.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Feb 2017 12:02:28 +0100</pubDate>
+        <link>raceup.it/en/2017/02/13/hello-world.html</link>
+        <guid isPermaLink="true">raceup.it/en/2017/02/13/hello-world</guid>
         
         
       </item>

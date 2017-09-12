@@ -1,6 +1,17 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## 0.8.9 - 2017-09-12
+
+### Removed
+- json db
+
+### Fixed
+- post url for eng version
+
+### Added
+- eng version
+
 ## 0.8.8 - 2017-09-10
 
 ### Added
