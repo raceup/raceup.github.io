@@ -5,9 +5,22 @@
     <description>Race Up is the FSAE team of the University of Padova. Since 2006 we build one of the fastest racing car in FSAE competitions.</description>
     <link>raceup.it/</link>
     <atom:link href="raceup.it/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 12 Sep 2017 20:01:47 +0200</pubDate>
-    <lastBuildDate>Tue, 12 Sep 2017 20:01:47 +0200</lastBuildDate>
+    <pubDate>Tue, 19 Sep 2017 21:01:20 +0200</pubDate>
+    <lastBuildDate>Tue, 19 Sep 2017 21:01:20 +0200</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>La Notte Europea dei Ricercatori</title>
+        <description>&lt;p&gt;Venerdì 29 settembre 2017 Padova ospita &lt;a href=&quot;https://www.facebook.com/Venetonight/?fref=mentions&quot;&gt;La Notte Europea dei ricercatori&lt;/a&gt; organizzata dall’&lt;a href=&quot;https://www.facebook.com/universitapadova/?fref=mentions&quot;&gt;Università degli Studi di Padova&lt;/a&gt;.&lt;br /&gt;
+Per l’occasione saremo presenti anche noi con il &lt;a href=&quot;https://www.facebook.com/RaceUPCombustion/?fref=mentions&quot;&gt;Race UP Team Combustion&lt;/a&gt; e il &lt;a href=&quot;https://www.facebook.com/Race-UP-Team-Electric-802147286569414/&quot;&gt;Race UP Team Electric&lt;/a&gt; e una piccola esposizione della nostra monoposto e con una conferenza a Palazzo Bo, in &lt;a href=&quot;http://www.venetonight.it/padova/&quot;&gt;questo link&lt;/a&gt; troverete tutto il programma.&lt;br /&gt;
+Seguiteci per info e aggiornamenti!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 18 Sep 2017 22:38:48 +0200</pubDate>
+        <link>raceup.it/2017/09/18/nottericercatori.html</link>
+        <guid isPermaLink="true">raceup.it/2017/09/18/nottericercatori</guid>
+        
+        
+      </item>
     
       <item>
         <title>Abbiamo vinto!!!</title>
@@ -220,31 +233,6 @@ Buona Visione&lt;/p&gt;
         <pubDate>Sun, 05 Mar 2017 20:02:28 +0100</pubDate>
         <link>raceup.it/2017/03/05/mecspe.html</link>
         <guid isPermaLink="true">raceup.it/2017/03/05/mecspe</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Benvenuti</title>
-        <description>&lt;p&gt;Siamo un team di oltre 60 studenti appassionati di auto, meccanica ed elettronica. Durante la settimana studenti, al sabato progettiamo e costruiamo macchine da corsa. Dal 2006 ormai ci ritroviamo in una sala tutte le settimane da Novembre a Luglio.&lt;br /&gt;
-Lo stimolo? Vincere il campionato Formula Student in prestigiosi scenari come Hockenheimring, Silverstone, Shanghai International Circuit …&lt;br /&gt;
-Il risultato? 11 macchine combustion e 2 elettriche.&lt;br /&gt;
-E adesso anche una nuova pagina web.&lt;/p&gt;
-
-&lt;h2 id=&quot;cosa-troverete&quot;&gt;Cosa troverete&lt;/h2&gt;
-&lt;p&gt;Abbiamo rinnovato questa pagina per essere più vicini a voi, agli sponsors e a chiunque sia interessato al nostro progetto. Oltre all’archivio delle passate stagioni e team, troverete le più recenti news dal team e descrizioni, unveling e dettagli sulle macchine che stiamo sviluppando. Presto anche una galleria fotografica con una lista dei video più esaltanti sarà pronta, ma intanto …&lt;/p&gt;
-
-&lt;h2 id=&quot;come-seguirci-in-altri-socials&quot;&gt;Come seguirci in altri socials&lt;/h2&gt;
-&lt;p&gt;… seguiteci sui social: facebook, twitter, instagram, youtube!&lt;br /&gt;
-Al momento gli interessati in elettronica troveranno del materiale sample sulla nostra pagina Github e bitbucket.&lt;br /&gt;
-Condividete, mandateci email, consigli!&lt;/p&gt;
-
-&lt;h3 id=&quot;un-saluto-da-race-up-team&quot;&gt;Un saluto da &lt;strong&gt;Race Up Team&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;a class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/posts/2016/04/17/image.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 13 Feb 2017 12:02:28 +0100</pubDate>
-        <link>raceup.it/2017/02/13/hello-world.html</link>
-        <guid isPermaLink="true">raceup.it/2017/02/13/hello-world</guid>
         
         
       </item>
