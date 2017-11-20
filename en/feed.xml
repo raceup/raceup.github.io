@@ -5,9 +5,209 @@
     <description>Race Up is the FSAE team of the University of Padova. Since 2006 we build one of the fastest racing car in FSAE competitions.</description>
     <link>raceup.it/en/</link>
     <atom:link href="raceup.it/en/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 20 Oct 2017 17:38:03 +0200</pubDate>
-    <lastBuildDate>Fri, 20 Oct 2017 17:38:03 +0200</lastBuildDate>
+    <pubDate>Mon, 20 Nov 2017 22:18:18 +0100</pubDate>
+    <lastBuildDate>Mon, 20 Nov 2017 22:18:18 +0100</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Meet our team!</title>
+        <description>&lt;p&gt;&lt;a class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/posts/2017/10/04/meet_reparti.png&quot; alt=&quot;Meet the team&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 Oct 2017 18:50:00 +0200</pubDate>
+        <link>raceup.it/en/2017/10/04/meetreparti.html</link>
+        <guid isPermaLink="true">raceup.it/en/2017/10/04/meetreparti</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>European Researchers' Night </title>
+        <description>&lt;p&gt;On 29 September 2017 Padua hosts &lt;a href=&quot;https://www.facebook.com/Venetonight/?fref=mentions&quot;&gt;La Notte Europea dei ricercatori&lt;/a&gt; organized by &lt;a href=&quot;https://www.facebook.com/universitapadova/?fref=mentions&quot;&gt;Università degli Studi di Padova&lt;/a&gt;. We will be there with &lt;a href=&quot;https://www.facebook.com/Race-UP-Team-Electric-802147286569414/&quot;&gt;Race UP Team Electric&lt;/a&gt; and &lt;a href=&quot;https://www.facebook.com/RaceUPCombustion/?fref=mentions&quot;&gt;Race UP Team Combustion&lt;/a&gt;, a small exhibition of our single-seater and with a conference in Palazzo Bo. &lt;a href=&quot;http://www.venetonight.it/padova/&quot;&gt;Here&lt;/a&gt; you can find the program.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 18 Sep 2017 22:38:48 +0200</pubDate>
+        <link>raceup.it/en/2017/09/18/nottericercatori.html</link>
+        <guid isPermaLink="true">raceup.it/en/2017/09/18/nottericercatori</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>We won!!!</title>
+        <description>&lt;p&gt;News from FSAE Italy:we are proud to announce that Race Up electric division has won in class 3 of Formula SAE Italy&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/posts/2017/07/25/podium.jpg&quot; alt=&quot;Varano 2017 podium&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;These are just the first images from the Electric event … stay tuned for more!&lt;/p&gt;
+
+&lt;!-- flickity --&gt;
+&lt;script src=&quot;/js/flickity.pkgd.js&quot;&gt;&lt;/script&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/css/flickity.min.css&quot; /&gt;
+
+&lt;!-- ed --&gt;
+&lt;section class=&quot;wrapper style3&quot;&gt;
+    &lt;div&gt;
+        &lt;div class=&quot;carousel&quot; data-flickity=&quot;{ &amp;quot;imagesLoaded&amp;quot;: true, &amp;quot;percentPosition&amp;quot;: false }&quot;&gt;
+		    &lt;a href=&quot;/images/posts/2017/07/25/gallery/full/ed/1.jpg&quot;&gt;
+				&lt;img src=&quot;/images/posts/2017/07/25/gallery/ed/1.jpg&quot; alt=&quot;Design event (electric division)&quot; /&gt;
+			&lt;/a&gt;
+			&lt;a href=&quot;/images/posts/2017/07/25/gallery/full/ed/1b.jpg&quot;&gt;
+				&lt;img src=&quot;/images/posts/2017/07/25/gallery/ed/1b.jpg&quot; alt=&quot;Olf F1 show&quot; /&gt;
+			&lt;/a&gt;
+			&lt;a href=&quot;/images/posts/2017/07/25/gallery/full/ed/1c.jpg&quot;&gt;
+				&lt;img src=&quot;/images/posts/2017/07/25/gallery/ed/1c.jpg&quot; alt=&quot;Ferrari show&quot; /&gt;
+			&lt;/a&gt;
+			&lt;a href=&quot;/images/posts/2017/07/25/gallery/full/ed/2.jpg&quot;&gt;
+				&lt;img src=&quot;/images/posts/2017/07/25/gallery/ed/2.jpg&quot; alt=&quot;Electric team photo&quot; /&gt;
+			&lt;/a&gt;
+			&lt;a href=&quot;/images/posts/2017/07/25/gallery/full/ed/3b.jpg&quot;&gt;
+				&lt;img src=&quot;/images/posts/2017/07/25/gallery/ed/3b.jpg&quot; alt=&quot;Final prizegiving&quot; /&gt;
+			&lt;/a&gt;
+			&lt;a href=&quot;/images/posts/2017/07/25/gallery/full/ed/3.jpeg&quot;&gt;
+				&lt;img src=&quot;/images/posts/2017/07/25/gallery/ed/3.jpeg&quot; alt=&quot;Everyone runs to the circuit&quot; /&gt;
+			&lt;/a&gt;
+			&lt;a href=&quot;/images/posts/2017/07/25/gallery/full/ed/4.jpg&quot;&gt;
+				&lt;img src=&quot;/images/posts/2017/07/25/gallery/ed/4.jpg&quot; alt=&quot;1st place Class 3 overall&quot; /&gt;
+			&lt;/a&gt;
+			&lt;a href=&quot;/images/posts/2017/07/25/gallery/full/ed/5.jpg&quot;&gt;
+				&lt;img src=&quot;/images/posts/2017/07/25/gallery/ed/5.jpg&quot; alt=&quot;Teams photo&quot; /&gt;
+			&lt;/a&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/section&gt;
+</description>
+        <pubDate>Tue, 25 Jul 2017 16:20:04 +0200</pubDate>
+        <link>raceup.it/en/2017/07/25/varano-2k17.html</link>
+        <guid isPermaLink="true">raceup.it/en/2017/07/25/varano-2k17</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title> ZF Race Camp</title>
+        <description>&lt;h2 id=&quot;zf-race-camp-2017-recap&quot;&gt;ZF Race Camp 2017 recap&lt;/h2&gt;
+
+&lt;p&gt;ZF recap&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/posts/2017/06/24/image.jpg&quot; alt=&quot;ZF Camp&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;un-saluto-da-tutto-il-race-up-team&quot;&gt;Un saluto da tutto il &lt;strong&gt;Race Up Team&lt;/strong&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Sat, 24 Jun 2017 15:02:28 +0200</pubDate>
+        <link>raceup.it/en/2017/06/24/zf.html</link>
+        <guid isPermaLink="true">raceup.it/en/2017/06/24/zf</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Galileo Festival 2017</title>
+        <description>&lt;p&gt;This week, right after the presentation of our single-seaters on 10 May 2017, we will participate at Galileo festival: from 11 to 13 May, in Villaggio dell’Innovazione, between Palazzo del Bo and Palazzo Moroni. Along with the other excellences of University of Padua we will display our electric single-seater in a event where you will discover how the innovation grows inside of our University.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/posts/2017/05/06/image.png&quot; alt=&quot;Galileo festival&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ci vediamo lì!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;un-saluto-da-tutto-il-race-up-team&quot;&gt;Un saluto da tutto il &lt;strong&gt;Race Up Team&lt;/strong&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Sat, 06 May 2017 15:02:28 +0200</pubDate>
+        <link>raceup.it/en/2017/05/06/galileo2017.html</link>
+        <guid isPermaLink="true">raceup.it/en/2017/05/06/galileo2017</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Launch 2017</title>
+        <description>&lt;h2 id=&quot;presentazione-monoposto-2017&quot;&gt;Presentazione Monoposto 2017&lt;/h2&gt;
+
+&lt;p&gt;Single-seater presentation.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;image featured&quot;&gt;&lt;img src=&quot;/images/posts/2017/04/27/image.png&quot; alt=&quot;Car launch&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ci vediamo lì!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;un-saluto-da-tutto-il-race-up-team&quot;&gt;Un saluto da tutto il &lt;strong&gt;Race Up Team&lt;/strong&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Thu, 27 Apr 2017 15:02:28 +0200</pubDate>
+        <link>raceup.it/en/2017/04/27/debut2017.html</link>
+        <guid isPermaLink="true">raceup.it/en/2017/04/27/debut2017</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Support us</title>
+        <description>&lt;h2 id=&quot;campagna-donazioni-2017&quot;&gt;Campagna Donazioni 2017&lt;/h2&gt;
+
+&lt;p&gt;Donation campaign&lt;/p&gt;
+
+&lt;h3 id=&quot;un-grazie-ed-un-saluto-da-tutto-il-race-up-team&quot;&gt;Un grazie ed un saluto da tutto il &lt;strong&gt;Race Up Team&lt;/strong&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Sat, 15 Apr 2017 14:02:28 +0200</pubDate>
+        <link>raceup.it/en/2017/04/15/donazione.html</link>
+        <guid isPermaLink="true">raceup.it/en/2017/04/15/donazione</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>MECSPE pt.4 2017</title>
+        <description>&lt;h2 id=&quot;mecspe--2017-pt4&quot;&gt;MECSPE  2017 pt.4&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;-1&lt;/strong&gt; &lt;strong&gt;a MECSPE 2017&lt;/strong&gt;&lt;br /&gt;
+Last update before MECSPE 2017, where we will be thanks to Confartigianato Padova. In this  video Marco Munaro, technical manager of electric division, explains us what happens behind the team scenes during the single-seater production. We remember you that you can find the electric single-seater in wing 7, stand C 120 during all the event.&lt;/p&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;
+&lt;iframe src=&quot;https://youtube.com/embed/Y_5piPzyt7o&quot; onload=&quot;this.width=screen.width * 0.5; this.height=screen.height * 0.5;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;un-saluto-da-race-up-team&quot;&gt;Un saluto da &lt;strong&gt;Race Up Team&lt;/strong&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Wed, 22 Mar 2017 14:02:28 +0100</pubDate>
+        <link>raceup.it/en/2017/03/22/mecspe4.html</link>
+        <guid isPermaLink="true">raceup.it/en/2017/03/22/mecspe4</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>MECSPE part 3 2017</title>
+        <description>&lt;h2 id=&quot;mecspe--2017-pt3&quot;&gt;MECSPE  2017 pt.3&lt;/h2&gt;
+&lt;p&gt;Third update before MECSPE 2017, where we will be thanks to Confartigianato Padova. In this  video Marco Pietrangelo, technical manager of combustion division, explains us what happens behind the team scenes during the single-seater production.&lt;/p&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;
+&lt;iframe src=&quot;https://youtube.com/embed/8GvOrqkJuNs&quot; onload=&quot;this.width=screen.width * 0.5; this.height=screen.height * 0.5;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;un-saluto-da-race-up-team&quot;&gt;Un saluto da &lt;strong&gt;Race Up Team&lt;/strong&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Sun, 19 Mar 2017 20:02:28 +0100</pubDate>
+        <link>raceup.it/en/2017/03/19/mecspe3.html</link>
+        <guid isPermaLink="true">raceup.it/en/2017/03/19/mecspe3</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>MECSPE part 2 2017</title>
+        <description>&lt;h2 id=&quot;mecspe--2017-pt2&quot;&gt;MECSPE  2017 pt.2&lt;/h2&gt;
+&lt;p&gt;Second update before MECSPE 2017, where we will be thanks to Confartigianato Padova. In this  video Giacomo Ballotta , ex  technical manager and R&amp;amp;D Engineer in Dallara, explains us his experience in Race Up team.&lt;/p&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;
+&lt;iframe src=&quot;https://youtube.com/embed/-Rueu8PnHxg&quot; onload=&quot;this.width=screen.width * 0.5; this.height=screen.height * 0.5;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;un-saluto-da-race-up-team&quot;&gt;Un saluto da &lt;strong&gt;Race Up Team&lt;/strong&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Mon, 13 Mar 2017 20:02:28 +0100</pubDate>
+        <link>raceup.it/en/2017/03/13/mecspe2.html</link>
+        <guid isPermaLink="true">raceup.it/en/2017/03/13/mecspe2</guid>
+        
+        
+      </item>
     
   </channel>
 </rss>
