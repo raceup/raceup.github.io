@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 
 <html lang="it">
+
 <head>
-<title>Auto a combustione</title>
+<title>Auto elettrica</title>
 
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="description" content="Race Up is the FSAE team of the University of Padova. Since 2006 we build one of the fastest racing car in FSAE competitions.">
@@ -27,296 +28,245 @@
 <script src="/js/init.min.js"></script>
 <script src="/js/ga.min.js"></script>
 </head>
-<body class="no-sidebar no-fouc" onload='$(".no-fouc").removeClass("no-fouc"),window.dispatchEvent(new Event("resize"))'>
-<header id="header" class="no-fouc">
-<nav id="nav" align="center">
-    <ul>
-        <li class="icon fa-home"><a href="/">Home</a></li>
-        <li class="submenu">
-            <a>Team</a>
-            <ul>
-                <li><a href="/team/history.html">La
-                    nostra storia</a></li>
-                <li><a href="/competitions.html">Le
-                    competizioni</a></li>
-                <li class="submenu">
-                    <a>Chi siamo</a>
-                    <ul>
-                        <li><a href="/team/members.html">2019</a></li>
-                        <li><a href="/team/2018.html">2018</a></li>
-                        <li><a href="/team/2017.html">2017</a></li>
-                        <li><a href="/team/2016.html">2016</a></li>
-                        <li><a href="/team/2015.html">2015</a></li>
-                        <li><a href="/team/2014.html">2014</a></li>
-                        <li><a href="/team/2013.html">2013</a></li>
-                        <li><a href="/team/2012.html">2012</a></li>
-                        <li><a href="/team/2011.html">2011</a></li>
-                        <li><a href="/team/2010.html">2010</a></li>
-                        <li><a href="/team/2009.html">2009</a></li>
-                        <li><a href="/team/2008.html">2008</a></li>
-                        <li><a href="/team/2007.html">2007</a></li>
-                        <li><a href="/team/2006.html">2006</a></li>
-                    </ul>
-                </li>
-            </ul>
-        </li>
-        <li class="submenu">
-            <a>Auto</a>
-            <ul>
-                <li><a href="/cars/cd.html">Combustion</a></li>
-                <li><a href="/cars/ed.html">Electric</a></li>
-            </ul>
-        </li>
-        <li class="submenu">
-            <a>Sponsors</a>
-            <ul>
-                <li><a href="/sponsors/why.html">Perchè supportarci</a></li>
-                <li><a href="/sponsors/cd.html">Divisione combustion</a></li>
-                <li><a href="/sponsors/ed.html">Divisione electric</a></li>
-            </ul>
-        </li>
-        <li><a href="/join.html">Unisciti a noi</a></li>
-        <li class="submenu">
-            <a>News</a>
-            <ul>
-                <li><a href="/blog.html#blog">Blog</a></li>
-                <li><a href="/blog.html#about">Dicono di
-                    noi</a></li>
-                <li><a href="/blog.html#tech">Approfondimenti
-                </a></li>
-            </ul>
-        </li>
-        <li><a href="/contact.html">Contatti</a></li>
-        <li class="icon fa-language"><a href="/en">eng</a></li>
-    </ul>
-</nav>
 
-</header>
-<div class="page-content">
-<article id="main">
+<article id="main" class="no-sidebar" onload='$(".no-fouc").removeClass("no-fouc"), window.dispatchEvent(new Event("resize"))'>
     <header class="special container">
         <span class="icon fa-car"></span>
         <h2>MG 13.18</h2>
     </header>
-    <section class="wrapper style3 container">
-        <div>
-            <div class="carousel"
-                 data-flickity='{ "imagesLoaded": true, "percentPosition": false }'>
-                <img src="/images/cars/cd/carousel/1.jpg" alt="Front">
-                <img src="/images/cars/cd/carousel/2.jpg" alt="Rear">
-                <img src="/images/cars/cd/carousel/3.jpg" alt="Side">
-                <img src="/images/cars/cd/carousel/4.jpg" alt="Top">
-                <img src="/images/cars/cd/carousel/5.jpg" alt="Front left">
+
+    <!-- keyshot rendering -->
+<div id="KeyShotXR"></div>
+<script type="text/javascript" src="/js/keyshot/KeyShotXR.js"></script>
+<script type="text/javascript">
+	var keyshotXR;
+	var windowWidth = window.innerWidth;
+	var frameWidth = Math.min(windowWidth * 0.75, 1024);
+	var frameHeight = frameWidth * 0.6;
+	var marginLeft = (windowWidth - frameWidth) / 2.0 - 5;
+
+	function initKeyShotXR() {
+		var nameOfDiv = "KeyShotXR";
+		var folderName = "keyshot/cd";
+		var viewPortWidth = frameWidth;
+		var viewPortHeight = frameHeight;
+		var backgroundColor = "#FFFFFF";
+		var uCount = 28;
+		var vCount = 1;
+		var uWrap = true;
+		var vWrap = false;
+		var uMouseSensitivity = -0.0777778;
+		var vMouseSensitivity = 1;
+		var uStartIndex = 14;
+		var vStartIndex = 0;
+		var minZoom = 1;
+		var maxZoom = 1;
+		var rotationDamping = 0.96;
+		var downScaleToBrowser = true;
+		var addDownScaleGUIButton = false;
+		var downloadOnInteraction = false;
+		var imageExtension = "png";
+		var showLoading = true;
+		var loadingIcon = "Senza titolo-4.png"; // Set to empty string for default icon.
+		var allowFullscreen = true; // Double-click in desktop browsers for fullscreen.
+		var uReverse = false;
+		var vReverse = false;
+		var hotspots = {};
+
+		keyshotXR = new keyshotXR(nameOfDiv,folderName,viewPortWidth,viewPortHeight,backgroundColor,uCount,vCount,uWrap,vWrap,uMouseSensitivity,vMouseSensitivity,uStartIndex,vStartIndex,minZoom,maxZoom,rotationDamping,downScaleToBrowser,addDownScaleGUIButton,downloadOnInteraction,imageExtension,showLoading,loadingIcon,allowFullscreen,uReverse,vReverse,hotspots);
+		document.getElementById("KeyShotXR").style.marginLeft = marginLeft + 'px';
+	}
+
+	window.onload = initKeyShotXR;
+</script>
+
+    <div id="keyshot_rendering" align="center">
+    Ruota la macchina per esplorarla a 360°
+</div>
+
+<section class="wrapper container special">
+    <p>
+        La mappatura del motore e l'impianto di scarico sono stati
+        realizzati ad hoc in modo tale da avere una migliore prontezza del
+        motore a bassi e medi regimi ed essere adatti alle specifiche
+        richieste della Formula SAE.
+        <br>
+        Tutti gli elementi aerodinamici sono realizzati in fibra di
+        carbonio e ci permettono di avere una tenuta di strada ottimale.
+    </p>
+    <header>
+        <a class="image featured"><img src="/images/cars/cd/brochure.jpg"
+                                       alt="MG brochure"></a>
+    </header>
+</section>
+<section class="wrapper style1 container special">
+    <div class="row">
+        <div class="4u">
+            <header>
+                <h2><strong>MG 06.11</strong></h2>
+                <a class="image featured"><img src="/images/cars/cd/11.jpg"
+                                               alt="MG 11"></a>
+            </header>
+            <div class="with-border">
+                <strong>Anno di produzione</strong>: 2011
+            </div>
+            <div class="with-border">
+                <strong>Peso</strong>: 245 kg
+            </div>
+            <div class="with-border">
+                <strong>Accelerazione 0-100 km/h</strong>: 3.7 s
+            </div>
+            <div class="with-border">
+                <strong>Potenza</strong>: 89 hp
+            </div>
+            <div>
+                <a class="button" href="/data/cd/11.pdf">Scarica la scheda
+                    tecnica</a>
             </div>
         </div>
-    </section>
-    <section class="wrapper container special">
-        <p>
-            La mappatura del motore e l'impianto di scarico sono stati
-            realizzati ad hoc in modo tale da avere una migliore prontezza del
-            motore a bassi e medi regimi ed essere adatti alle specifiche
-            richieste della Formula SAE.
-            <br>
-            Tutti gli elementi aerodinamici sono realizzati in fibra di
-            carbonio e ci permettono di avere una tenuta di strada ottimale.
-        </p>
-        <header>
-            <a class="image featured"><img src="/images/cars/cd/brochure.jpg"
-                                           alt="MG brochure"></a>
-        </header>
-    </section>
-    <section class="wrapper style1 container special">
-        <div class="row">
-            <div class="4u">
-                <header>
-                    <h2><strong>MG 06.11</strong></h2>
-                    <a class="image featured"><img src="/images/cars/cd/11.jpg"
-                                                   alt="MG 11"></a>
-                </header>
-                <div class="with-border">
-                    <strong>Anno di produzione</strong>: 2011
-                </div>
-                <div class="with-border">
-                    <strong>Peso</strong>: 245 kg
-                </div>
-                <div class="with-border">
-                    <strong>Accelerazione 0-100 km/h</strong>: 3.7 s
-                </div>
-                <div class="with-border">
-                    <strong>Potenza</strong>: 89 hp
-                </div>
-                <div>
-                    <a class="button" href="/data/cd/11.pdf">Scarica la scheda
-                        tecnica</a>
-                </div>
+        <div class="4u">
+            <header>
+                <h2><strong>MG 07.12</strong></h2>
+                <a class="image featured"><img src="/images/cars/cd/12.jpg"
+                                               alt="MG 12"></a>
+            </header>
+            <div class="with-border">
+                <strong>Anno di produzione</strong>: 2012
             </div>
-            <div class="4u">
-                <header>
-                    <h2><strong>MG 07.12</strong></h2>
-                    <a class="image featured"><img src="/images/cars/cd/12.jpg"
-                                                   alt="MG 12"></a>
-                </header>
-                <div class="with-border">
-                    <strong>Anno di produzione</strong>: 2012
-                </div>
-                <div class="with-border">
-                    <strong>Peso</strong>: 209 kg
-                </div>
-                <div class="with-border">
-                    <strong>Accelerazione 0-100 km/h</strong>: 3.3 s
-                </div>
-                <div class="with-border">
-                    <strong>Potenza</strong>: 89 hp
-                </div>
-                <div>
-                    <a class="button" href="/data/cd/12.pdf">Scarica la scheda
-                        tecnica</a>
-                </div>
+            <div class="with-border">
+                <strong>Peso</strong>: 209 kg
             </div>
-            <div class="4u">
-                <header>
-                    <h2><strong>MG 08.13</strong></h2>
-                    <a class="image featured"><img src="/images/cars/cd/13.jpg"
-                                                   alt="MG 13"></a>
-                </header>
-                <div class="with-border">
-                    <strong>Anno di produzione</strong>: 2013
-                </div>
-                <div class="with-border">
-                    <strong>Peso</strong>: 213 kg
-                </div>
-                <div class="with-border">
-                    <strong>Accelerazione 0-100 km/h</strong>: 3.3 s
-                </div>
-                <div class="with-border">
-                    <strong>Potenza</strong>: 88 hp
-                </div>
-                <div>
-                    <a class="button" href="/data/cd/13.pdf">Scarica la scheda
-                        tecnica</a>
-                </div>
+            <div class="with-border">
+                <strong>Accelerazione 0-100 km/h</strong>: 3.3 s
+            </div>
+            <div class="with-border">
+                <strong>Potenza</strong>: 89 hp
+            </div>
+            <div>
+                <a class="button" href="/data/cd/12.pdf">Scarica la scheda
+                    tecnica</a>
             </div>
         </div>
-        <div class="row">
-            <div class="4u">
-                <header>
-                    <h2><strong>MG 09.14</strong></h2>
-                    <a class="image featured"><img src="/images/cars/cd/14.jpg"
-                                                   alt="MG 14"></a>
-                </header>
-                <div class="with-border">
-                    <strong>Anno di produzione</strong>: 2014
-                </div>
-                <div class="with-border">
-                    <strong>Peso</strong>: 200 kg
-                </div>
-                <div class="with-border">
-                    <strong>Accelerazione 0-100 km/h</strong>: 3.1 s
-                </div>
-                <div class="with-border">
-                    <strong>Potenza</strong>: 85 hp
-                </div>
-                <div>
-                    <a class="button" href="/data/cd/14.pdf">Scarica la scheda
-                        tecnica</a>
-                </div>
+        <div class="4u">
+            <header>
+                <h2><strong>MG 08.13</strong></h2>
+                <a class="image featured"><img src="/images/cars/cd/13.jpg"
+                                               alt="MG 13"></a>
+            </header>
+            <div class="with-border">
+                <strong>Anno di produzione</strong>: 2013
             </div>
-            <div class="4u">
-                <header>
-                    <h2><strong>MG 10.15</strong></h2>
-                    <a class="image featured"><img src="/images/cars/cd/15.jpg"
-                                                   alt="MG 15"></a>
-                </header>
-                <div class="with-border">
-                    <strong>Anno di produzione</strong>: 2015
-                </div>
-                <div class="with-border">
-                    <strong>Peso</strong>: 214 kg
-                </div>
-                <div class="with-border">
-                    <strong>Accelerazione 0-100 km/h</strong>: 3.1 s
-                </div>
-                <div class="with-border">
-                    <strong>Potenza</strong>: 81 hp
-                </div>
-                <div>
-                    <a class="button" href="/data/cd/15.pdf">Scarica la scheda
-                        tecnica</a>
-                </div>
+            <div class="with-border">
+                <strong>Peso</strong>: 213 kg
             </div>
-            <div class="4u">
-                <header>
-                    <h2><strong>MG 11.16</strong></h2>
-                    <a class="image featured"><img src="/images/cars/cd/16.jpg"
-                                                   alt="MG 16"></a>
-                </header>
-                <div class="with-border">
-                    <strong>Anno di produzione</strong>: 2016
-                </div>
-                <div class="with-border">
-                    <strong>Peso</strong>: 197 kg
-                </div>
-                <div class="with-border">
-                    <strong>Accelerazione 0-100 km/h</strong>: 3.1 s
-                </div>
-                <div class="with-border">
-                    <strong>Potenza</strong>: 89 hp
-                </div>
-                <div>
-                    <a class="button" href="/data/cd/16.pdf">Scarica la scheda
-                        tecnica</a>
-                </div>
+            <div class="with-border">
+                <strong>Accelerazione 0-100 km/h</strong>: 3.3 s
+            </div>
+            <div class="with-border">
+                <strong>Potenza</strong>: 88 hp
+            </div>
+            <div>
+                <a class="button" href="/data/cd/13.pdf">Scarica la scheda
+                    tecnica</a>
             </div>
         </div>
-        <div class="row">
-            <div class="4u">
-                <header>
-                    <h2><strong>MG 12.17</strong></h2>
-                    <a class="image featured"><img src="/images/cars/cd/17.jpg"
-                                                   alt="MG 17"></a>
-                </header>
-                <div class="with-border">
-                    <strong>Anno di produzione</strong>: 2017
-                </div>
-                <div class="with-border">
-                    <strong>Peso</strong>: 200 kg
-                </div>
-                <div class="with-border">
-                    <strong>Accelerazione 0-100 km/h</strong>: 3.5 s
-                </div>
-                <div class="with-border">
-                    <strong>Potenza</strong>: 90 hp
-                </div>
-                <div>
-                    <a class="button" href="/data/cd/17.pdf">Scarica la scheda
-                        tecnica</a>
-                </div>
+    </div>
+    <div class="row">
+        <div class="4u">
+            <header>
+                <h2><strong>MG 09.14</strong></h2>
+                <a class="image featured"><img src="/images/cars/cd/14.jpg"
+                                               alt="MG 14"></a>
+            </header>
+            <div class="with-border">
+                <strong>Anno di produzione</strong>: 2014
+            </div>
+            <div class="with-border">
+                <strong>Peso</strong>: 200 kg
+            </div>
+            <div class="with-border">
+                <strong>Accelerazione 0-100 km/h</strong>: 3.1 s
+            </div>
+            <div class="with-border">
+                <strong>Potenza</strong>: 85 hp
+            </div>
+            <div>
+                <a class="button" href="/data/cd/14.pdf">Scarica la scheda
+                    tecnica</a>
             </div>
         </div>
-    </section>
+        <div class="4u">
+            <header>
+                <h2><strong>MG 10.15</strong></h2>
+                <a class="image featured"><img src="/images/cars/cd/15.jpg"
+                                               alt="MG 15"></a>
+            </header>
+            <div class="with-border">
+                <strong>Anno di produzione</strong>: 2015
+            </div>
+            <div class="with-border">
+                <strong>Peso</strong>: 214 kg
+            </div>
+            <div class="with-border">
+                <strong>Accelerazione 0-100 km/h</strong>: 3.1 s
+            </div>
+            <div class="with-border">
+                <strong>Potenza</strong>: 81 hp
+            </div>
+            <div>
+                <a class="button" href="/data/cd/15.pdf">Scarica la scheda
+                    tecnica</a>
+            </div>
+        </div>
+        <div class="4u">
+            <header>
+                <h2><strong>MG 11.16</strong></h2>
+                <a class="image featured"><img src="/images/cars/cd/16.jpg"
+                                               alt="MG 16"></a>
+            </header>
+            <div class="with-border">
+                <strong>Anno di produzione</strong>: 2016
+            </div>
+            <div class="with-border">
+                <strong>Peso</strong>: 197 kg
+            </div>
+            <div class="with-border">
+                <strong>Accelerazione 0-100 km/h</strong>: 3.1 s
+            </div>
+            <div class="with-border">
+                <strong>Potenza</strong>: 89 hp
+            </div>
+            <div>
+                <a class="button" href="/data/cd/16.pdf">Scarica la scheda
+                    tecnica</a>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="4u">
+            <header>
+                <h2><strong>MG 12.17</strong></h2>
+                <a class="image featured"><img src="/images/cars/cd/17.jpg"
+                                               alt="MG 17"></a>
+            </header>
+            <div class="with-border">
+                <strong>Anno di produzione</strong>: 2017
+            </div>
+            <div class="with-border">
+                <strong>Peso</strong>: 200 kg
+            </div>
+            <div class="with-border">
+                <strong>Accelerazione 0-100 km/h</strong>: 3.5 s
+            </div>
+            <div class="with-border">
+                <strong>Potenza</strong>: 90 hp
+            </div>
+            <div>
+                <a class="button" href="/data/cd/17.pdf">Scarica la scheda
+                    tecnica</a>
+            </div>
+        </div>
+    </div>
+</section>
+
 </article>
-<!-- flickity -->
-<script src="/js/flickity.pkgd.js"></script>
-<link rel="stylesheet" href="/css/flickity.min.css">
-</div>
-<footer id="footer">
-<ul class="icons">
-<li><a href="https://www.facebook.com/Race-UP-Team-Combustion-440618820789/"
-       title="Race UP Team"
-       class="icon circle fa-facebook fa-facebook-cd"><span
-        class="label">Facebook CD</span></a></li>
-<li><a href="https://www.instagram.com/race_up_team/" class="icon circle fa-instagram"><span class="label">Instagram</span></a></li>
-<li><a href="https://www.youtube.com/user/teamraceup" class="icon circle fa-youtube"><span class="label">Youtube</span></a></li>
-<li><a href="mailto:info@raceup.it" class="icon circle fa-envelope"><span class="label">Email</span></a></li>
-</ul>
-<div class="copyright">
-<ul>
-<li>&copy; Race Up Team</li>
-<li>Made with &hearts; by Race Up Team</li>
-</ul>
-Site last generated: 13:16:01 Feb 14, 2019
-<br>
-<br>
-</div>
-</footer>
-</body>

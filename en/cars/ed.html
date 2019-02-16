@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 
 <html lang="en"}>
+
 <head>
 <title>Electric car</title>
 
@@ -27,74 +28,62 @@
 <script src="/js/init.min.js"></script>
 <script src="/js/ga.min.js"></script>
 </head>
-<body class="no-sidebar no-fouc" onload='$(".no-fouc").removeClass("no-fouc"),window.dispatchEvent(new Event("resize"))'>
-<header id="header" class="no-fouc">
-<nav id="nav" align="center">
-    <ul>
-        <li class="icon fa-home"><a href="/en/">Home</a></li>
-        <li class="submenu">
-            <a>Team</a>
-            <ul>
-                <li><a href="/en/team/history.html">Our
-                    history</a></li>
-                <li class="submenu">
-                <a>Meet us</a>
-                <ul>
-                    <li><a href="/en/team/members.html">2018</a></li>
-                    <li><a href="/en/team/2017.html">2017</a></li>
-                    <li><a href="/en/team/2016.html">2016</a></li>
-                    <li><a href="/en/team/2015.html">2015</a></li>
-                    <li><a href="/en/team/2014.html">2014</a></li>
-                    <li><a href="/en/team/2013.html">2013</a></li>
-                    <li><a href="/en/team/2012.html">2012</a></li>
-                    <li><a href="/en/team/2011.html">2011</a></li>
-                    <li><a href="/en/team/2010.html">2010</a></li>
-                    <li><a href="/en/team/2009.html">2009</a></li>
-                    <li><a href="/en/team/2008.html">2008</a></li>
-                    <li><a href="/en/team/2007.html">2007</a></li>
-                    <li><a href="/en/team/2006.html">2006</a></li>
-                </ul>
-            </ul>
-        </li>
-        <li class="submenu">
-            <a>Cars</a>
-            <ul>
-                <li><a href="/en/cars/cd.html">Combustion</a></li>
-                <li><a href="/en/cars/ed.html">Electric</a></li>
-            </ul>
-        </li>
-        <li class="submenu">
-            <a>Sponsors</a>
-            <ul>
-                <li><a href="/en/sponsors/why.html">Why support us</a></li>
-                <li><a href="/en/sponsors/cd.html">Combustion division</a></li>
-                <li><a href="/en/sponsors/ed.html">Electric division</a></li>
-            </ul>
-        </li>
-        <li><a href="/en/join.html">Join us</a></li>
-        <li><a href="/en/media.html">Media</a></li>
-        <li><a href="/en/blog.html">Blog</a></li>
-        <li><a href="/en/contact.html">Contacts</a></li>
-        <li class="icon fa-language"><a href="/">ita</a></li>
-    </ul>
-</nav>
 
-</header>
-<div class="page-content">
-<article id="main">
-<header class="special container">
-<span class="icon fa-car"></span>
-<h2>Our jewels</h2>
-</header>
-<section class="wrapper style3 container">
-<div>
-<div class="carousel" data-flickity='{ "imagesLoaded": true, "percentPosition": false }'>
-<img src="/images/cars/ed/carousel/1.jpg" alt="Aerodynamics">
-<img src="/images/cars/ed/carousel/2.jpg" alt="Rear">
-<img src="/images/cars/ed/carousel/3.jpg" alt="Overall">
+<article id="main" class="no-sidebar" onload='$(".no-fouc").removeClass("no-fouc"), window.dispatchEvent(new Event("resize"))'>
+    <header class="special container">
+        <span class="icon fa-car"></span>
+        <h2>Evolution-e</h2>
+    </header>
+
+    <!-- keyshot rendering -->
+<div id="KeyShotXR"></div>
+<script type="text/javascript" src="/js/keyshot/KeyShotXR.js"></script>
+<script type="text/javascript">
+	var keyshotXR;
+	var windowWidth = window.innerWidth;
+	var frameWidth = Math.min(windowWidth * 0.75, 1024);
+	var frameHeight = frameWidth * 0.6;
+	var marginLeft = (windowWidth - frameWidth) / 2.0 - 5;
+
+	function initKeyShotXR() {
+		var nameOfDiv = "KeyShotXR";
+		var folderName = "keyshot/ed";
+		var viewPortWidth = frameWidth;
+		var viewPortHeight = frameHeight;
+		var backgroundColor = "#FFFFFF";
+		var uCount = 28;
+		var vCount = 1;
+		var uWrap = true;
+		var vWrap = false;
+		var uMouseSensitivity = -0.0777778;
+		var vMouseSensitivity = 1;
+		var uStartIndex = 14;
+		var vStartIndex = 0;
+		var minZoom = 1;
+		var maxZoom = 1;
+		var rotationDamping = 0.96;
+		var downScaleToBrowser = true;
+		var addDownScaleGUIButton = false;
+		var downloadOnInteraction = false;
+		var imageExtension = "png";
+		var showLoading = true;
+		var loadingIcon = "Senza titolo-4.png"; // Set to empty string for default icon.
+		var allowFullscreen = true; // Double-click in desktop browsers for fullscreen.
+		var uReverse = false;
+		var vReverse = false;
+		var hotspots = {};
+
+		keyshotXR = new keyshotXR(nameOfDiv,folderName,viewPortWidth,viewPortHeight,backgroundColor,uCount,vCount,uWrap,vWrap,uMouseSensitivity,vMouseSensitivity,uStartIndex,vStartIndex,minZoom,maxZoom,rotationDamping,downScaleToBrowser,addDownScaleGUIButton,downloadOnInteraction,imageExtension,showLoading,loadingIcon,allowFullscreen,uReverse,vReverse,hotspots);
+		document.getElementById("KeyShotXR").style.marginLeft = marginLeft + 'px';
+	}
+
+	window.onload = initKeyShotXR;
+</script>
+
+    <div id="keyshot_rendering" align="center">
+    Rotate the car to explore it at 360°
 </div>
-</div>
-</section>
+
 <section class="wrapper container special">
 <p>
 The rigidity of the single-seater and above all the safety of the rider is guaranteed by the carbon fiber monocoque (with a weight of only 23 kg) we have developed: this allows us to be both powerful and safe at the same time.
@@ -102,7 +91,7 @@ The rigidity of the single-seater and above all the safety of the rider is guara
 We have fully developed the entire electronic compartment by also providing traction control, regenerative braking and torque vectoring on the 4 wheels.
 </p>
 <header>
-<a class="image featured"><img src="/images/cars/ed/brochure.png" alt="Electric brochure"></a>
+<a class="image featured"><img src="/images/cars/ed/brochure1.jpg" alt="Electric brochure"></a>
 </header>
 </section>
 <section class="wrapper style1 container special">
@@ -130,30 +119,5 @@ We have fully developed the entire electronic compartment by also providing trac
 </div>
 </div>
 </section>
-</article>
 
-<!-- flickity -->
-<script src="/js/flickity.pkgd.js"></script>
-<link rel="stylesheet" href="/css/flickity.min.css">
-</div>
-<footer id="footer">
-<ul class="icons">
-<li><a href="https://www.facebook.com/Race-UP-Team-Combustion-440618820789/"
-       title="Race UP Team"
-       class="icon circle fa-facebook fa-facebook-cd"><span
-        class="label">Facebook CD</span></a></li>
-<li><a href="https://www.instagram.com/race_up_team/" class="icon circle fa-instagram"><span class="label">Instagram</span></a></li>
-<li><a href="https://www.youtube.com/user/teamraceup" class="icon circle fa-youtube"><span class="label">Youtube</span></a></li>
-<li><a href="mailto:info@raceup.it" class="icon circle fa-envelope"><span class="label">Email</span></a></li>
-</ul>
-<div class="copyright">
-<ul>
-<li>&copy; Race Up Team</li>
-<li>Made with &hearts; by Race Up Team</li>
-</ul>
-Site last generated: 13:16:12 Feb 14, 2019
-<br>
-<br>
-</div>
-</footer>
-</body>
+</article>
